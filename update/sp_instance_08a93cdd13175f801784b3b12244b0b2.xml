@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1ffb4e13cb21020000f8d856634c9c2f</sp_column>
+        <sp_widget/>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-13 13:13:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>08a93cdd13175f801784b3b12244b0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categories</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sp_instance_08a93cdd13175f801784b3b12244b0b2</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-13 13:13:14</sys_updated_on>
+        <title>Categories</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hide_xs": {
+		"value": "",
+		"displayValue": ""
+	},
+	"omit_badges": {
+		"value": false,
+		"displayValue": false
+	},
+	"check_can_view": {
+		"value": true,
+		"displayValue": true
+	}
+}]]></widget_parameters>
+    </sp_instance>
+</record_update>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="are_you_faculty_or_staff" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>are_you_faculty_or_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Administration</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence>100</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:16:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffea418413df5b801784b3b12244b02d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:17:59</sys_updated_on>
+            <value>administration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>are_you_faculty_or_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Faculty</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence>200</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2ba098413df5b801784b3b12244b011</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:17:50</sys_updated_on>
+            <value>faculty</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>are_you_faculty_or_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence>300</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:16:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92da018413df5b801784b3b12244b05d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:18:04</sys_updated_on>
+            <value>staff</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>are_you_faculty_or_staff</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence>400</sequence>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:17:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed1bc58413df5b801784b3b12244b0a0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:18:10</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>are_you_faculty_or_staff</element>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:15:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1acac58413df5b801784b3b12244b06b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>are_you_faculty_or_staff</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_faculty_staff_program_applicaton_are_you_faculty_or_staff</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:15:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

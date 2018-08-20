@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Class Year" max_length="40" name="x_clstu_abroad_class_year" type="collection">
+        <element display="true" label="Class Year" max_length="20" name="class_year" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="order" max_length="40" name="u_order" type="string"/>
+    </element>
+</database>

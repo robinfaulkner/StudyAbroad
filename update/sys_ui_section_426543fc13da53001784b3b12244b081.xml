@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Information" section_id="426543fc13da53001784b3b12244b081" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="refund">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hold_check_phone</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 19:08:39</sys_created_on>
+            <sys_id>59e167f0135e53001784b3b12244b087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_clstu_abroad_submissions" sys_domain="global" view="4dad36b413da53001784b3b12244b0e9">426543fc13da53001784b3b12244b081</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:08:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>refund_address</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 19:08:39</sys_created_on>
+            <sys_id>d9e167f0135e53001784b3b12244b087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_clstu_abroad_submissions" sys_domain="global" view="4dad36b413da53001784b3b12244b0e9">426543fc13da53001784b3b12244b081</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:08:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason_for_refund</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 19:08:39</sys_created_on>
+            <sys_id>5de167f0135e53001784b3b12244b087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_clstu_abroad_submissions" sys_domain="global" view="4dad36b413da53001784b3b12244b0e9">426543fc13da53001784b3b12244b081</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:08:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hardship_withdrawal</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 19:08:39</sys_created_on>
+            <sys_id>dde167f0135e53001784b3b12244b087</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_clstu_abroad_submissions" sys_domain="global" view="4dad36b413da53001784b3b12244b0e9">426543fc13da53001784b3b12244b081</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:08:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Information</caption>
+            <header>false</header>
+            <name>x_clstu_abroad_submissions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 17:04:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>426543fc13da53001784b3b12244b081</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_426543fc13da53001784b3b12244b081</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 17:06:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Refund" name="refund">4dad36b413da53001784b3b12244b0e9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

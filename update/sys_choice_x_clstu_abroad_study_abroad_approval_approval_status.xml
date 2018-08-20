@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="approval_status" table="x_clstu_abroad_study_abroad_approval" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 18:54:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10e7159d13721b401784b3b12244b04d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 18:54:08</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 18:54:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18f7159d13721b401784b3b12244b050</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 18:54:18</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-22 15:03:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c989892613f6db401784b3b12244b072</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-22 15:03:53</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Request Additional Information</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 18:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2908119d13721b401784b3b12244b006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 18:54:39</sys_updated_on>
+            <value>request_info</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 18:54:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>86e79d5d13721b401784b3b12244b0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>approval_status</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_study_abroad_approval_approval_status</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 18:54:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

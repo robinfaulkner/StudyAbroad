@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Emergency Information" section_id="3b79e2b4139a53001784b3b12244b00c" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_contact_1</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0489e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_address_1</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8489e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_email_1</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0889e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_phone_1</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8889e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_relationship_1</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0c89e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>speak_to_parents</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8c89e2b4139a53001784b3b12244b0a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0089e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_contact_2</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8089e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_address_2</element>
+            <position>8</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0489e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_email_2</element>
+            <position>9</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8489e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_phone_2</element>
+            <position>10</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>0889e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_relationship_2</element>
+            <position>11</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:16</sys_created_on>
+            <sys_id>8889e2b4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Emergency Information" display_value="Emergency Information" name="x_clstu_abroad_submissions" sys_domain="global" view="Default view">3b79e2b4139a53001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Emergency Information</caption>
+            <header>false</header>
+            <name>x_clstu_abroad_submissions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:02:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b79e2b4139a53001784b3b12244b00c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Emergency Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_3b79e2b4139a53001784b3b12244b00c</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:02:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

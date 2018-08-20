@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="STARS Scholarship" max_length="40" name="x_clstu_abroad_stars_scholarship" type="collection">
+        <element label="Address" max_length="100" name="address" type="string"/>
+        <element label="Alternate Phone Number" max_length="40" name="alternate_phone_number" type="phone_number_e164"/>
+        <element choice="1" choice_field="u_term" choice_table="x_clstu_abroad_study_abroad_subjects" label="Choose the term you intend to study abroad" max_length="40" name="choose_the_term_you_intend_to_study_abroad" type="choice">
+            <choice/>
+        </element>
+        <element label="City" max_length="50" name="city" type="string"/>
+        <element label="City and country in which you plan to study " max_length="50" name="city_and_country_in_which_you_plan_to_study" type="string"/>
+        <element choice="1" label="Class Standing" max_length="40" name="class_standing" reference="x_clstu_abroad_class_standing" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Class Year" max_length="40" name="class_year" reference="x_clstu_abroad_class_year" type="reference">
+            <choice/>
+        </element>
+        <element label="Cost of program " max_length="6" name="cost_of_program" type="string"/>
+        <element label="Cumulative GPA" max_length="5" name="cumulative_gpa" type="string"/>
+        <element label="Departure date" max_length="40" name="departure_date" type="glide_date"/>
+        <element label="Did you receive any additional financial aid other than the HOPE Scholarship" max_length="40" name="did_you_receive_any_additional_financial_aid_other_than_the_hope_scholarship" type="boolean"/>
+        <element label="Did you receive the HOPE Scholarship" max_length="40" name="did_you_receive_the_hope_scholarship" type="boolean"/>
+        <element label="Do you need this course to graduate" max_length="40" name="do_you_need_this_course_to_graduate" type="boolean"/>
+        <element label="Do you plan to study a foreign language while you are abroad" max_length="40" name="do_you_plan_to_study_a_foreign_language_while_you_are_abroad" type="boolean"/>
+        <element label="First Traveling Outside US" max_length="1000" name="first_traveling_outside_us" type="string"/>
+        <element label="Major" max_length="100" name="major" type="string"/>
+        <element label="May we quote you from your essay" max_length="40" name="may_we_quote_you_from_your_essay" type="boolean"/>
+        <element label="Most Recent Semester GPA" max_length="5" name="most_recent_semester_gpa" type="string"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element label="Name of study abroad program and sponsoring university or organization" max_length="100" name="name_of_study_abroad_program_and_sponsoring_university_or_organization" type="string"/>
+        <element label="Payment/Fee Deadline" max_length="50" name="payment_fee_deadline" type="string"/>
+        <element label="Phone number where you can be reached" max_length="40" name="phone_number_01" type="phone_number_e164"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date"/>
+        <element choice="1" label="State" max_length="40" name="state" reference_qual="is_geomap=true^EQ" reference_qual_condition="is_geomap=true^EQ" type="string">
+            <choice/>
+        </element>
+        <element label="What course(s) is this associated with for your program" max_length="500" name="what_course_s_is_this_associated_with_for_your_program" type="string"/>
+        <element label="What requirement is this fulfilling" max_length="100" name="what_requirement_is_this_fulfilling" type="string"/>
+        <element label="Zip Code" max_length="10" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

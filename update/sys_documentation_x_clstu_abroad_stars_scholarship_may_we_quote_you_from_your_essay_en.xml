@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="may_we_quote_you_from_your_essay" label="May we quote you from your essay" language="en" table="x_clstu_abroad_stars_scholarship">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>may_we_quote_you_from_your_essay</element>
+            <help/>
+            <hint/>
+            <label>May we quote you from your essay</label>
+            <language>en</language>
+            <name>x_clstu_abroad_stars_scholarship</name>
+            <plural>May we quote you from your essays</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 17:27:18</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>147074214faf1fc09a35afdd0210c711</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>May we quote you from your essay</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_stars_scholarship_may_we_quote_you_from_your_essay_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 17:27:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Financial Aid Fact Sheet">1399e2874fda5b009a35afdd0210c714</sc_cat_item>
+        <sc_category display_value="Student Resources">1b25e2434fda5b009a35afdd0210c75c</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-05-30 14:49:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7ac966874fda5b009a35afdd0210c709</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Getting Started.Financial Aid Fact Sheet</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_category_7ac966874fda5b009a35afdd0210c709</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-05-30 14:49:53</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

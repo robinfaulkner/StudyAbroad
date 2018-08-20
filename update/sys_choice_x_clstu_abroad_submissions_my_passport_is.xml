@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="my_passport_is" table="x_clstu_abroad_submissions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_passport_is</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Current</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 15:55:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d3fbf81135a93001784b3b12244b091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 15:55:21</sys_updated_on>
+            <value>current</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_passport_is</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>I don't know</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 15:56:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>437fb381135a93001784b3b12244b02e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 15:56:25</sys_updated_on>
+            <value>do_not_know_passport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_passport_is</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Expired</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 15:55:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee4f7381135a93001784b3b12244b074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 15:55:34</sys_updated_on>
+            <value>expired</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_passport_is</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>I don't have a passport</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 15:55:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f75fff81135a93001784b3b12244b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 15:55:55</sys_updated_on>
+            <value>no_passport</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>my_passport_is</element>
+            <name>x_clstu_abroad_submissions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 15:55:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>eb3f7f81135a93001784b3b12244b0b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>my_passport_is</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_submissions_my_passport_is</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 15:55:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

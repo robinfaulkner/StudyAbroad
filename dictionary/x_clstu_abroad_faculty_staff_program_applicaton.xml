@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Faculty Staff Program Applicaton" max_length="40" name="x_clstu_abroad_faculty_staff_program_applicaton" type="collection">
+        <element choice="1" label="Are you faculty or staff" max_length="40" name="are_you_faculty_or_staff" type="choice">
+            <choice>
+                <element label="Administration" sequence="100" value="administration"/>
+                <element label="Faculty" sequence="200" value="faculty"/>
+                <element label="Staff" sequence="300" value="staff"/>
+                <element label="Other" sequence="400" value="other"/>
+            </choice>
+        </element>
+        <element choice="1" label="Are you familiar with the country/countries " max_length="40" name="are_you_familiar_country" type="choice">
+            <choice>
+                <element label="I'm not sure" value="not_sure"/>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Have you assisted or been on a study abroad program" max_length="40" name="assisted_or_been_on_a_study_abroad_program" type="boolean"/>
+        <element label="Cell Phone" max_length="10" name="cell_phone" type="phone_number_e164"/>
+        <element label="Country Proposing Primary" max_length="32" name="country_proposing" reference="core_country" type="reference"/>
+        <element label="Country Proposing - Secondary" max_length="32" name="country_proposing_secondary" reference="core_country" type="reference"/>
+        <element label="If you are going to have a co-led Program Director" max_length="32" name="co_led_program_director_info" reference="sys_user" reference_qual="department!=ad749df6131f22001784b3b12244b09a^EQ" reference_qual_condition="department!=ad749df6131f22001784b3b12244b09a^EQ" type="reference"/>
+        <element label="Dean of the Department" max_length="32" name="dean_of_the_department" reference="sys_user" reference_qual="department!=ad749df6131f22001784b3b12244b09a^EQ" reference_qual_condition="department!=ad749df6131f22001784b3b12244b09a^EQ" type="reference"/>
+        <element label="Department Chair or Department Contact/Approver - Primary" max_length="32" name="department_chair_or_department_contact_approver" reference="sys_user" reference_qual="department!=ad749df6131f22001784b3b12244b09a^EQ" reference_qual_condition="department!=ad749df6131f22001784b3b12244b09a^EQ" type="reference"/>
+        <element label="Department Chair or Department Contact/Approver - Secondary" max_length="32" name="department_chair_or_department_contact_approver_secondary" reference="sys_user" reference_qual="department!=ad749df6131f22001784b3b12244b09a^EQ" reference_qual_condition="department!=ad749df6131f22001784b3b12244b09a^EQ" type="reference"/>
+        <element choice="1" label="Do you have a Passport" max_length="40" name="do_you_have_a_passport" type="choice">
+            <choice>
+                <element label="In the process of applying for one" value="passport_process"/>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Dual Enrollment (DE) students are not eligible to attend Clayton State study" max_length="40" name="dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study" type="boolean"/>
+        <element label="Employee Name" max_length="32" name="employee_name" reference="sys_user" reference_qual="department!=ad749df6131f22001784b3b12244b09a^EQ" reference_qual_condition="department!=ad749df6131f22001784b3b12244b09a^EQ" type="reference"/>
+        <element label="Enroll all of the students on to the course roster for the study abroad progr" max_length="40" name="enoll_all_of_the_students_on_to_the_course_roster" type="boolean"/>
+        <element label="Full Title of Requester" max_length="100" name="full_title_of_requester" type="string"/>
+        <element label="Have you previously conducted a study abroad program" max_length="40" name="have_you_previously_conducted_a_study_abroad_program" type="boolean"/>
+        <element label="Have you visited the country" max_length="40" name="have_you_visited_the_country" type="boolean"/>
+        <element choice="1" label="How did you learn about the study abroad opportunities for program directors" max_length="40" name="how_did_you_learn_about_the_study_abroad_opportunities_for_program_directors" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="How often will the study abroad program take place" max_length="40" name="how_often_take_place" type="choice">
+            <choice>
+                <element label="I'm not sure" value="not_sure"/>
+                <element label="This program will be offered every other year" value="every_other_year"/>
+                <element label="This program will be offered on a continuous, yearly basis" value="continuous"/>
+                <element label="This program will only be offered the one time" value="one_time"/>
+            </choice>
+        </element>
+        <element choice="1" label="Will this program have more than one instructor assisting with the study abroad " max_length="40" name="more_than_one_instructor" type="choice">
+            <choice>
+                <element label="I'm not sure" value="not_sure"/>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Office Location" max_length="50" name="office_location" type="string"/>
+        <element label="Only the Program Director(s) and Clayton State credit-seeking students are " max_length="40" name="only_the_program_director_s_and_clayton_state_credit_seeking_students_are" type="boolean"/>
+        <element choice="1" label="Is your Passport valid for at least a year" max_length="40" name="passport_valid_for_at_least_a_year" type="choice">
+            <choice>
+                <element label="Based off of this information I will need to apply for a new passport" value="based_apply_new_passport"/>
+                <element label="I am in the process of applying for a new passport" value="in process_new_passport"/>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Program Directors should be interviewing program applicants.  " max_length="40" name="program_directors_should_be_interviewing_program_applicants" type="boolean"/>
+        <element choice="1" label="Program Term for Study Abroad" max_length="40" name="program_term" type="choice">
+            <choice>
+                <element label="I'm not sure" value="not_sure"/>
+                <element label="Maymester" value="maymester"/>
+                <element label="Spring Semester's Spring Break" value="spring"/>
+                <element label="Summer Semester" value="summer_semester"/>
+            </choice>
+        </element>
+        <element label="Students make all necessary program and tuition payments to the Bursar Offic" max_length="40" name="students_make_all_necessary_program_and_tuition_payments_to_the_bursar_offic" type="boolean"/>
+        <element label="Have you conducted a study abroad program at Clayton State University" max_length="40" name="study_abroad_program_at_clayton_state_university" type="boolean"/>
+        <element label="Study abroad student eligibility requirements include the following" max_length="40" name="study_abroad_student_eligibility_requirements_include_the_following" type="boolean"/>
+        <element choice="1" label="Are you in the process of submitting a Study Abroad Site Visit Request" max_length="40" name="submitting_a_study_abroad_site_visit_request" type="choice">
+            <choice/>
+        </element>
+        <element label="The Study Abroad Approval Process includes the following" max_length="40" name="the_study_abroad_approval_process_includes_the_following" type="boolean"/>
+        <element label="The Study Abroad Office will assist with program recruitment " max_length="40" name="the_study_abroad_office_will_assist_with_program_recruitment" type="boolean"/>
+        <element label="Transient students are ill advised to apply for Clayton State study abroad p" max_length="40" name="transient_students_are_ill_advised_to_apply_for_clayton_state_study_abroad_p" type="boolean"/>
+        <element choice="1" label="Is the program for undergraduate or graduate students" max_length="40" name="undergraduate_graduate_students" type="choice">
+            <choice>
+                <element label="Both" value="Both"/>
+                <element label="Graduate" value="Graduate"/>
+                <element label="Undergraduate" value="undergraduate"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="country_proposing"/>
+        </index>
+        <index name="index2">
+            <element name="co_led_program_director_info"/>
+        </index>
+        <index name="index3">
+            <element name="dean_of_the_department"/>
+        </index>
+        <index name="index4">
+            <element name="country_proposing_secondary"/>
+        </index>
+        <index name="index5">
+            <element name="employee_name"/>
+        </index>
+    </element>
+</database>

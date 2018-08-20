@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Student Health Clearance Form">7dd745214fef1fc09a35afdd0210c70e</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="margin: 0.15pt 38.8pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 115%;">Please attach your <a title="Health Clearance Form" href="sys_attachment.do?sys_id&#61;cfc1e0724f6713049a35afdd0210c75d" target="_blank" rel="nofollow">Health Clearance Form</a> and click Submit.</span></p>
+<p>After your form has been reviewed and approved, you will receive an approval notification.</p>
+<p style="margin: 0.15pt 38.8pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 115%;">The program participant must provide Clayton State University Health Services (UHS) or their physician the <em>program description</em> for the study abroad program they will attend. <em><span style="color: red;">Failure to provide the program description to UHS and/or the physician in conjunction with this form will prevent the program participant being cleared by the healthcare professional.</span> </em> Program descriptions can be found on the online application, programs website, and/or the programs marketing brochure. </span></p>
+<p style="margin: 0.05pt 39.15pt 0.0001pt 0in; text-align: justify; line-height: 113%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="line-height: 113%;"> </span></strong></p>
+<p style="margin: 0.05pt 39.15pt 0.0001pt 0in; text-align: justify; line-height: 113%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="line-height: 113%;">Physician Clearance:</span></strong><span style="font-size: 10.0pt; line-height: 113%;"> Health Clearance Forms must be submitted to the Clayton State Study Abroad Office by the physician’s office, with all of the necessary pages completed and attached (faxed or by mail) in order to be approved by the Study Abroad Office.  <strong><em><span style="color: red;">Health Clearance Forms submitted by the physician’s office will <span style="letter-spacing: -.75pt;">ONLY be </span>accepted if they are faxed or mailed.</span>  </em></strong>Once the Study Abroad Office receives the students completed form from the physician, the Study Abroad Office conducts a screening process of the form and uploads it to the student’s online account. </span></p>
+<p style="margin: 0.15pt 38.75pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="line-height: 115%;"> </span></strong></p>
+<p style="margin: 0.15pt 38.75pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="line-height: 115%;">University Health Services (UHS) Clearance: </span></strong><span style="font-size: 10.0pt; line-height: 115%;"> Health Clearance Forms completed by the UHS must be uploaded to the student’s application portal as directed.  The UHS stamps the form with the UHS office seal once the form is completed.  All of the necessary pages must be completed and attached to be approved by the Study Abroad Office.    </span></p>
+<p style="margin: 0.15pt 38.75pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 115%;"> </span></p>
+<p style="margin: 0.15pt 38.75pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 115%;">Participation in the Clayton State study abroad program is contingent upon timely receipt of the Health Clearance Form by the Clayton State Study Abroad Office.  The form MUST be received prior to the second payment date for the selected program. If the form is not received by the deadline or if the student is not cleared by the UHS or a physician, then the student may not be eligible to participate on the study abroad<span style="letter-spacing: -.8pt;"> p</span>rogram and/or receive a refund.  Students should note that the UHS and/or the physician may require additional approval depending on the students healthcare needs. </span></p>
+<p style="margin: 0.15pt 38.75pt 0.0001pt 0in; text-align: justify; line-height: 115%; font-size: 11pt; font-family: Calibri, sans-serif;"><em><span style="font-size: 10.0pt; line-height: 115%;">Students must make sure that the Health Clearance Form has been approved &amp; cleared.  If a student’s health clearance has been denied by the UHS or the physician, pay close attention to the withdrawal and refund dates.</span></em><span style="font-size: 10.0pt; line-height: 115%;">  Students should look at completing the Health Clearance Form before the second payment date for the program in order to receive a full refund, excluding the non-refundable deposit of $250.00 and any prepaid expenses. </span></p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Submit Health Clearance Form</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=101f6ddd13b21b401784b3b12244b091&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-18 20:37:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>101f6ddd13b21b401784b3b12244b091</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Submit Health Clearance Form</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_101f6ddd13b21b401784b3b12244b091</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-31 16:17:19</sys_updated_on>
+        <table_name>x_clstu_abroad_submissions</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=101f6ddd13b21b401784b3b12244b091"/>
+    <fx_price action="delete_multiple" query="id=101f6ddd13b21b401784b3b12244b091"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>101f6ddd13b21b401784b3b12244b091</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-18 20:37:35</sys_created_on>
+        <sys_id>219fa9dd13b21b401784b3b12244b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-18 20:37:35</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>101f6ddd13b21b401784b3b12244b091</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-18 20:37:35</sys_created_on>
+        <sys_id>e19fa9dd13b21b401784b3b12244b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-18 20:37:35</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

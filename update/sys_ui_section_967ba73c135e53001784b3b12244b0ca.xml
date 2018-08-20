@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="967ba73c135e53001784b3b12244b0ca" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="traveler_profile_builder">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>fedbd459139a93001784b3b12244b0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>72dbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>receive_financial_aid</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>f2dbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>my_passport_is</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>76dbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>f6dbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>i_am_studying</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>7adbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outside_my_home_country</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>fadbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country_passport</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 18:00:23</sys_created_on>
+            <sys_id>7edbd459139a93001784b3b12244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="c27beff8135e53001784b3b12244b091">967ba73c135e53001784b3b12244b0ca</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 18:00:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_clstu_abroad_submissions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 19:50:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>967ba73c135e53001784b3b12244b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_submissions</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_967ba73c135e53001784b3b12244b0ca</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:50:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Traveler Profile Builder" name="traveler_profile_builder">c27beff8135e53001784b3b12244b091</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

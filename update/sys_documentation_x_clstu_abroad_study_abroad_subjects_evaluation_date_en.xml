@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="evaluation_date" label="Evaluation Notification" language="en" table="x_clstu_abroad_study_abroad_subjects">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>evaluation_date</element>
+            <help/>
+            <hint/>
+            <label>Evaluation Notification</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_subjects</name>
+            <plural>Evaluation Notifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:15:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b4b6d80c134c67001784b3b12244b0f6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Evaluation Notification</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_study_abroad_subjects_evaluation_date_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 17:04:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

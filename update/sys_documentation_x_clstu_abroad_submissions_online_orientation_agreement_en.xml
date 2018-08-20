@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="online_orientation_agreement" label="Online Orientation Agreement" language="en" table="x_clstu_abroad_submissions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>online_orientation_agreement</element>
+            <help/>
+            <hint/>
+            <label>Online Orientation Agreement</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <plural>Online Orientation Agreements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-17 20:31:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7dada6ec4f4caf009a35afdd0210c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Online Orientation Agreement</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_submissions_online_orientation_agreement_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-17 20:31:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

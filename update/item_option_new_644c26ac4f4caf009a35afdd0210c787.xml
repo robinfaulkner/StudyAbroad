@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="item_option_new">
+    <item_option_new action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Maymester/Summer Online Orientation">bc07ea684f4caf009a35afdd0210c750</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <example_text/>
+        <field>online_orientation_agreement</field>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <include_none>false</include_none>
+        <instructions><![CDATA[<p>By choosing this option, you are selecting to take the online orientation, the student must note the following information below. Students will receive an online orientation about a week after the live orientation has taken place.</p>
+<p>NOTICE:</p>
+<p>“Students who miss the live orientation are more likely to experience concerns during their study abroad process. By missing the live presentation students are subject to miss vital information regarding the Study Abroad Office services, program payments, withdrawal process, tuition &amp; fees, academic &amp; student conduct, passports &amp; visas, international students abroad (for international students), health abroad, safety abroad, what to expect abroad, travel tips, what to know before departure and upon your return. However, if students cannot make the orientation they will be provided a way to make-up the missed session through an online orientation and will be able to obtain the material covered.</p>
+<p>It is the student’s obligation to review the provided orientation material on their own, and obtain the necessary facts to be properly informed of the study abroad procedures. The Study Abroad Office will make sure the orientation material is sufficiently provided to students to complete within an adequate period, however the material may not be as in depth as it would have been during the live presentation. The live presentation allows time for questions and answers from attendees. After reviewing the material, students are welcome to seek clarification or inquire more about the process by reaching out to the Study Abroad Office.</p>
+<p>The Study Abroad Office asks students to make every effort to attend the in-person session in order for the office to make sure students feel safe, secure, and aware of risks abroad, as well as provide students with the necessary knowledge regarding the study abroad procedures at Clayton State University.</p>
+<p>Note that this absence does not excuse students from attending the Program Directors orientation. This is ONLY to excuse students from attending the Study Abroad Office’s orientation.”</p>
+<p> </p>]]></instructions>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <mandatory>true</mandatory>
+        <map_to_field>true</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>online_orientation_agreement</name>
+        <order>500</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <question_text>I agree</question_text>
+        <read_roles/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:26:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>644c26ac4f4caf009a35afdd0210c787</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>online_orientation_agreement</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>item_option_new_644c26ac4f4caf009a35afdd0210c787</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:32:25</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>7</type>
+        <ui_page/>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="delete_multiple" query="documentkey=644c26ac4f4caf009a35afdd0210c787"/>
+    <fx_price action="delete_multiple" query="id=644c26ac4f4caf009a35afdd0210c787"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>644c26ac4f4caf009a35afdd0210c787</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:26:27</sys_created_on>
+        <sys_id>db6cea6c4f4caf009a35afdd0210c72d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:26:27</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>644c26ac4f4caf009a35afdd0210c787</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:26:27</sys_created_on>
+        <sys_id>1f6cea6c4f4caf009a35afdd0210c72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:26:27</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

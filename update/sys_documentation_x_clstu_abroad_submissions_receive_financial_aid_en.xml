@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="receive_financial_aid" label="I receive financial aid or scholarships from the government or an organization" language="en" table="x_clstu_abroad_submissions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>receive_financial_aid</element>
+            <help/>
+            <hint/>
+            <label>I receive financial aid or scholarships from the government or an organization</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <plural>I receive financial aid or scholarships from the government or an organizations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 20:23:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>77e2b3b0139e53001784b3b12244b026</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>I receive financial aid or scholarships from the government or an organization</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_submissions_receive_financial_aid_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 20:24:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

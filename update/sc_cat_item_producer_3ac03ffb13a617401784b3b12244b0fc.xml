@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Psychology">ab80bfff13a617401784b3b12244b066</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">Directions: Please complete <strong>ALL</strong> items.  Once the forms are completed, they will be sent for approval to the Program Director <strong>Dr. Samuel Maddox in the Laboratory Annex Bldg. Room 116</strong>:</span></p>
+<h3 style="text-align: justify; margin: 0in 0in 0.0001pt; page-break-after: avoid; font-size: 12pt; font-family: &#39;Arial&#39;, sans-serif;"><span style="font-size: 10.0pt; font-weight: normal;"> </span></h3>
+<h3 style="margin: 0in 0in 0.0001pt 0.5in; text-align: justify; page-break-after: avoid; font-size: 12pt; font-family: &#39;Arial&#39;, sans-serif;"><span style="font-size: 10.0pt;">Samuel Maddox</span></h3>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-family: &#39;Arial&#39;,sans-serif;">            Laboratory Annex Bldg. Room 116F </span></strong></p>
+<p style="text-indent: 0.5in; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-family: &#39;Arial&#39;,sans-serif;">Department of Psychology</span></strong></p>
+<h4 style="margin: 0in 0in 0.0001pt 0.5in; text-align: justify; page-break-after: avoid; font-size: 10pt; font-family: &#39;Arial&#39;, sans-serif;">2000 Clayton State Boulevard </h4>
+<h2 style="margin: 0in 0in 0.0001pt 0.5in; text-align: justify; page-break-after: avoid; font-size: 12pt; font-family: &#39;Arial&#39;, sans-serif;"><span style="font-size: 10.0pt;">Morrow, GA 30260-0285</span></h2>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"> </p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><em><span style="font-size: 14.0pt; font-family: &#39;Arial&#39;,sans-serif;"><span style="letter-spacing: -.15pt;">PAYMENT SCHEDULE AND REFUND POLICY:</span></span></em></strong></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><em><span style="font-family: &#39;Arial&#39;,sans-serif;">All payments must be made to the Bursar’s Office in Edgewater Hall</span></em></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif; color: #0070c0;"> </span></strong></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><em><span style="font-family: &#39;Arial&#39;,sans-serif; background: yellow;">Total Cost of Program: $2,763.75</span></em></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif;">First Payment &amp; Deposit:</span></strong> <span style="font-family: &#39;Arial&#39;,sans-serif;">Monday, January 28, 2019</span><span style="font-family: &#39;Arial&#39;,sans-serif;">, of </span><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif;">  <span style="color: red;">      $1,228.00</span></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif;">Second Payment:</span></strong> <span style="font-family: &#39;Arial&#39;,sans-serif;">Tuesday, February 26, 2019</span><span style="font-family: &#39;Arial&#39;,sans-serif;">, of <span style="color: red;">   </span></span><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif; color: red;">                $1,228.00</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif;">Final Payment:</span></strong> <span style="font-family: &#39;Arial&#39;,sans-serif;">Monday, March 25, 2019</span><span style="font-family: &#39;Arial&#39;,sans-serif;">, of <span style="color: red;">   </span></span><span style="font-size: 11.0pt; font-family: &#39;Arial&#39;,sans-serif; color: red;">                         $307.75</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></strong></p>
+<p class="MsoNormalCxSpMiddle"><strong><u><span style="font-family: &#39;Arial&#39;,sans-serif;">*The charges above reflect the cost of the study abroad program only! Tuition for the course(s) associated with this study abroad program is additional.</span></u></strong><strong><span style="font-family: &#39;Arial&#39;,sans-serif;">  <span style="color: #0070c0;">*</span></span></strong><span style="font-family: &#39;Arial&#39;,sans-serif; color: #0070c0;">See section <strong>X</strong> below for more information.</span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><em><u><span style="font-family: &#39;Arial&#39;,sans-serif;">Maymester Refund Policy:</span></u></em></strong></p>
+<ul style="margin-top: 0in; margin-bottom: 0in; list-style-position: inside;" type="disc"><li style="font-family: &#39;Arial&#39;, sans-serif;"><strong>Withdrawal on or before <span style="color: red;">Tuesday, February 12, 2019</span>:</strong><span style="font-family: &#39;Arial&#39;,sans-serif;"> Complete refund excluding the non-refundable deposit of $250.00. </span></li><li style="font-family: &#39;Arial&#39;, sans-serif;"><strong>Withdrawal after <span style="color: red;">Tuesday, February 26, 2019</span>:</strong><span style="font-family: &#39;Arial&#39;,sans-serif;">  Costs for airfare, rail, admissions, and hotel(s) (including any cancellation penalties or charges imposed by the airline, hotel, or other prepaid expenses) and all administrative fees incurred are forfeited: the remainder will be refunded, excluding the non-refundable deposit of $250.00. </span></li><li style="font-family: &#39;Arial&#39;, sans-serif;"><strong>Withdrawal on or after <span style="color: red;">Monday, March 25, 2019</span>:</strong><span style="font-family: &#39;Arial&#39;,sans-serif;">  All costs are forfeited; no refunds.</span></li></ul>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><u><span style="font-family: &#39;Arial&#39;,sans-serif;">Maymester NOTES</span></u></strong></p>
+<p class="MsoNormalCxSpMiddle" style="margin-bottom: 8.0pt; line-height: 107%;"><strong><em><span style="font-family: &#39;Arial&#39;,sans-serif;">Health Clearance Form:</span></em></strong><span style="font-family: &#39;Arial&#39;,sans-serif;"> <em>STUDENTS MUST MAKE SURE THAT THE REQUIRED <strong>HEALTH CLEARENCE FORM</strong> HAS BEEN APPROVED &amp; CLEARED.  IF YOUR HEALTH CLEARENCE HAS BEEN DENIED BY YOUR PHYSICIAN PAY CLOSE ATTENTION TO THE WITHDRAWAL DATES.</em>   Students should complete the <strong>Health Clearance Form</strong> before <strong><span style="color: red;">Tuesday, February 26, 2019</span></strong>, in order to receive a full refund, excluding the non-refundable deposit of $250.00.  Remember, this form must be mailed by your physician or University Health Services (UHS) to the Clayton States’ Office of International Programs.</span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<div style="border: none; border-bottom: solid windowtext 1.0pt; padding: 0in 0in 1.0pt 0in;">
+<p style="text-align: justify; padding: 0in; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><em><span style="font-family: &#39;Arial&#39;,sans-serif;">Add/Drop/Withdrawal Periods from the Course:</span></em></strong><span style="font-family: &#39;Arial&#39;,sans-serif;"> Students who are considering dropping the course need to refer to the Academic Calendar for the current semester to review add/drop dates, withdrawal dates, etc. to make sure these dates do not affect your withdrawal process from the study abroad program.  If you have questions or concerns, speak with your Academic Adviser and Program Director.  The Academic Calendar can be located here: <span style="color: blue; text-decoration: underline;"><a style="color: blue; text-decoration: underline;" title="http://www.clayton.edu/calendar" href="http://www.clayton.edu/calendar" target="_blank" rel="nofollow">http://www.clayton.edu/calendar</a></span> </span></p>
+<p style="text-align: justify; padding: 0in; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+</div>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">Requests for refunds and withdrawal from the program must be made in writing to the Office of International Programs.  If program withdrawal is necessary for extenuating circumstances (Hardship Withdrawal), refunds will be considered on a case by case basis. All students must register and pay in full for the program fees and course tuition by the final payment deadline or they will be dropped from the program. <strong>Students will receive a f</strong></span><strong><span style="font-family: &#39;Arial&#39;,sans-serif; letter-spacing: -.15pt;">ull refund if the program is cancelled due to lack of participants.  <em>Note that </em></span></strong><strong><em><span style="font-family: &#39;Arial&#39;,sans-serif;">Study Abroad Refunds may automatically apply towards any outstanding tuition balance and/or fees on your student account.</span></em></strong></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">A <strong>$950.00 deposit</strong> must be received by the Bursar’s Office in the Student Center Building by <strong>01/28/2019 </strong>in order to confirm registration<strong>.  </strong>Deposits will be credited toward program costs.  See the paragraphs above for additional details about Payment Schedule and Refund Policy.  Applications will be accepted for this program until February 10, 2018. This course is limited to <strong>10 </strong>participants.</span></p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Psychology in Guyana</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=3ac03ffb13a617401784b3b12244b0fc&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Psychology in Guyana - Maymester - May 11 - 19, 2019</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 14:12:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3ac03ffb13a617401784b3b12244b0fc</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Psychology in Guyana</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_3ac03ffb13a617401784b3b12244b0fc</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-30 18:14:46</sys_updated_on>
+        <table_name>x_clstu_abroad_submissions</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ac03ffb13a617401784b3b12244b0fc"/>
+    <fx_price action="delete_multiple" query="id=3ac03ffb13a617401784b3b12244b0fc"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>3ac03ffb13a617401784b3b12244b0fc</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 14:12:20</sys_created_on>
+        <sys_id>cb01733313e617401784b3b12244b00c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-14 14:12:20</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>3ac03ffb13a617401784b3b12244b0fc</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 14:12:20</sys_created_on>
+        <sys_id>8f01733313e617401784b3b12244b00d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-14 14:12:20</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

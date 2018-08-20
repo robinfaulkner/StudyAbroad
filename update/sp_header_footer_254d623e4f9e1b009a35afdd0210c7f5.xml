@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_header_footer">
+    <sp_header_footer action="INSERT_OR_UPDATE">
+        <category>sample</category>
+        <client_script><![CDATA[function() {
+  // widget controller
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.footerinfo {
+  
+  padding-left: 30px;
+  padding-bottom: 15px;
+  
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>Study Abroad Footer</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script/>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-05-29 20:26:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>254d623e4f9e1b009a35afdd0210c7f5</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name>Study Abroad Footer</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sp_header_footer_254d623e4f9e1b009a35afdd0210c7f5</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-12 13:03:34</sys_updated_on>
+        <template><![CDATA[<hr/>
+<div class=footerinfo>	
+
+   <h4>Program Contact</h4>
+   <h5>Sasha Cokuslu</h5>
+   <h5>Study Abroad Adviser</h5>
+ 
+<button tabindex="0" name="submit" ng-disabled="submitted" ng-click="triggerOnSubmit()" class="btn ng-binding" role="button"><a href="https://claytondev.service-now.com/studyabroad?id=sc_cat_item&sys_id=10003a28135bdb801784b3b12244b08c&sysparm_category=1b25e2434fda5b009a35afdd0210c75c" target="_blank">Request a Follow Up</a></button>
+</div>]]></template>
+    </sp_header_footer>
+</record_update>

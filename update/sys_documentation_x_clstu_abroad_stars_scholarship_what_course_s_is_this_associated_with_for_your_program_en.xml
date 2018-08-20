@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="what_course_s_is_this_associated_with_for_your_program" label="What course(s) is this associated with for your program" language="en" table="x_clstu_abroad_stars_scholarship">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>what_course_s_is_this_associated_with_for_your_program</element>
+            <help/>
+            <hint/>
+            <label>What course(s) is this associated with for your program</label>
+            <language>en</language>
+            <name>x_clstu_abroad_stars_scholarship</name>
+            <plural>What course(s) is this associated with for your programs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 17:25:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a3ff68214f6f1fc09a35afdd0210c72d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>What course(s) is this associated with for your program</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_stars_scholarship_what_course_s_is_this_associated_with_for_your_program_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 17:25:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="gpa" label="GPA" language="en" table="x_clstu_abroad_submissions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>gpa</element>
+            <help/>
+            <hint/>
+            <label>GPA</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <plural>GPAs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 19:40:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c662619513b21b401784b3b12244b094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GPA</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_submissions_gpa_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 19:40:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

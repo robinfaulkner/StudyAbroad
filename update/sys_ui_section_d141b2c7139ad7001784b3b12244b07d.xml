@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d141b2c7139ad7001784b3b12244b07d" sys_domain="global" table="x_clstu_abroad_study_abroad_subjects" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subject</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:06:23</sys_created_on>
+            <sys_id>35a490c8134c67001784b3b12244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>program_director</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:06:23</sys_created_on>
+            <sys_id>f9a490c8134c67001784b3b12244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_term</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:06:23</sys_created_on>
+            <sys_id>7da490c8134c67001784b3b12244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:06:23</sys_created_on>
+            <sys_id>fda490c8134c67001784b3b12244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_date_1</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:06:23</sys_created_on>
+            <sys_id>71a490c8134c67001784b3b12244b027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evaluation_date</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-15 20:15:19</sys_created_on>
+            <sys_id>70b6980c134c67001784b3b12244b065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-15 20:15:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>health_clearance_notification</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 14:48:53</sys_created_on>
+            <sys_id>a495d45c1308a7001784b3b12244b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 14:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>passport_notification</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 14:49:30</sys_created_on>
+            <sys_id>adb5585c1308a7001784b3b12244b03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 14:49:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payments_notification</element>
+            <position>8</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 14:49:52</sys_created_on>
+            <sys_id>47c5d45c1308a7001784b3b12244b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 14:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tuition_notification</element>
+            <position>9</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 14:50:23</sys_created_on>
+            <sys_id>22e59c5c1308a7001784b3b12244b02b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 14:50:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tuition_payment_deadline</element>
+            <position>10</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 15:20:03</sys_created_on>
+            <sys_id>11bc50901348a7001784b3b12244b025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 15:20:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>health_clearance_due</element>
+            <position>11</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-16 19:12:57</sys_created_on>
+            <sys_id>340255d813c8a7001784b3b12244b0e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-16 19:12:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>passport_deadline</element>
+            <position>12</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-17 14:41:22</sys_created_on>
+            <sys_id>dc7d1dac4f48af009a35afdd0210c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-17 14:41:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>orientation_date</element>
+            <position>13</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:37:24</sys_created_on>
+            <sys_id>2f493469134423001784b3b12244b0b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_subjects" sys_domain="global" view="Default view">d141b2c7139ad7001784b3b12244b07d</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:37:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_clstu_abroad_study_abroad_subjects</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-30 15:22:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d141b2c7139ad7001784b3b12244b07d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_study_abroad_subjects</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_d141b2c7139ad7001784b3b12244b07d</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-30 15:22:32</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

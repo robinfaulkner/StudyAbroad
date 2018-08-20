@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="speak_to_parents" table="x_clstu_abroad_submissions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>speak_to_parents</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:04:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f9aab4139a53001784b3b12244b0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:04:23</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>speak_to_parents</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36e9aab4139a53001784b3b12244b080</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:04:13</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>speak_to_parents</element>
+            <name>x_clstu_abroad_submissions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-23 15:04:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>24f92ab4139a53001784b3b12244b0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>speak_to_parents</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_submissions_speak_to_parents</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:04:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.box {&#13;
+   text-align: left;&#13;
+    max-width: 1280px;&#13;
+    margin: 20px auto auto;&#13;
+    border: 1px solid #D8D5D5;&#13;
+    padding: 20px;&#13;
+    box-shadow: 2px 1px 4px #E0D7D7;&#13;
+    margin-top: -6%;&#13;
+    background: white;&#13;
+    clear: both;&#13;
+}</css>
+        <glyph>info</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">0376a49513fed7401784b3b12244b023</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-15 19:53:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>02c80654137a57401784b3b12244b06d</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name>Helpful Links</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sp_instance_02c80654137a57401784b3b12244b06d</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-27 12:53:37</sys_updated_on>
+        <title>Helpful Links</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"box\">\n<h2><u>Helpful Links</u></h2>\n<p><a href=\"http://www.clayton.edu/calendar\" target=\"_blank\">Academic Calendars</a></p>\n<p><a title=\"Study Abroad Homepage\" href=\"http://www.clayton.edu/international-programs/study-abroad\" target=\"_blank\">CSU Study Abroad Homepage</a></p>\n<p><a title=\"Financial Aid Fact Sheet For Study Abroad\" href=\"studyabroad?id=fin_aid_fact_sheet\" target=\"_blank\">Financial Aid Fact Sheet For Study Abroad</a></p>\n<p><a title=\"Payments\" href=\"studyabroad/studyabroad?id=payments\" target=\"_blank\">How to Make Online Payments</a></p>\n<p><a title=\"STARS Scholarship\" href=\"studyabroad?id=stars_scholarship\" target=\"_blank\">STARS Scholarship</a></p>\n<p><a title=\"Student Resources\" href=\"studyabroad?id=sc_category&amp;sys_id=1b25e2434fda5b009a35afdd0210c75c\" target=\"_blank\">Student Resources</a></p>\n<p><a title=\"Traveler Profile Builder\" href=\"studyabroad?id=sc_cat_item&amp;sys_id=4cc662834fda5b009a35afdd0210c7ee&amp;sysparm_category=1b25e2434fda5b009a35afdd0210c75c\" target=\"_blank\">Traveler Profile Builder</a></p>\n<p><a href=\"http://www.clayton.edu/bursar/tuition\" target=\"_blank\">Tuition</a></p>\n<p><a title=\"USA Study Abroad\" href=\"https://studyabroad.state.gov/\" target=\"_blank\">USA Study Abroad</a></p>\n</div>",
+		"displayValue": "<div class=\"box\">\n<h2><u>Helpful Links</u></h2>\n<p><a href=\"http://www.clayton.edu/calendar\" target=\"_blank\">Academic Calendars</a></p>\n<p><a title=\"Study Abroad Homepage\" href=\"http://www.clayton.edu/international-programs/study-abroad\" target=\"_blank\">CSU Study Abroad Homepage</a></p>\n<p><a title=\"Financial Aid Fact Sheet For Study Abroad\" href=\"studyabroad?id=fin_aid_fact_sheet\" target=\"_blank\">Financial Aid Fact Sheet For Study Abroad</a></p>\n<p><a title=\"Payments\" href=\"studyabroad/studyabroad?id=payments\" target=\"_blank\">How to Make Online Payments</a></p>\n<p><a title=\"STARS Scholarship\" href=\"studyabroad?id=stars_scholarship\" target=\"_blank\">STARS Scholarship</a></p>\n<p><a title=\"Student Resources\" href=\"studyabroad?id=sc_category&amp;sys_id=1b25e2434fda5b009a35afdd0210c75c\" target=\"_blank\">Student Resources</a></p>\n<p><a title=\"Traveler Profile Builder\" href=\"studyabroad?id=sc_cat_item&amp;sys_id=4cc662834fda5b009a35afdd0210c7ee&amp;sysparm_category=1b25e2434fda5b009a35afdd0210c75c\" target=\"_blank\">Traveler Profile Builder</a></p>\n<p><a href=\"http://www.clayton.edu/bursar/tuition\" target=\"_blank\">Tuition</a></p>\n<p><a title=\"USA Study Abroad\" href=\"https://studyabroad.state.gov/\" target=\"_blank\">USA Study Abroad</a></p>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+</record_update>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Travel Waivers and Refund Forms">e4b8d258135f9b801784b3b12244b0ba</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="margin: 0.55pt 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="font-size: 8pt;"> </span></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><em>Spring Break and Maymester/Summer Faculty-Led Study Abroad Refund Request Form.</em></strong> Students requesting withdrawal from a study abroad program should use this form to request a refund of study abroad program fees. The refund schedule is listed on the program application. <span class="Apple-converted-space"> </span><strong><em><span style="font-size: 10pt; color: red; letter-spacing: -0.15pt; background-color: yellow; background-position: initial initial; background-repeat: initial initial;">IMPORTANT: Study Abroad Refunds may automatically apply towards any outstanding tuition balance and/or fees on your student account.</span></em></strong></p>
+<p style="margin: 2.8pt 13.6pt 0.0001pt 0in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; line-height: 16.866666793823242px;"> </p>
+<p style="margin: 2.8pt 13.6pt 0.0001pt 7pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; line-height: 16.866666793823242px;"><strong><em><span style="font-size: 14pt; line-height: 21.466665267944336px;">Instructions:</span></em></strong></p>
+<ol style="list-style-position: inside;"><li> Student completes Section 4 (and Section 5 if applicable) of thisform.</li></ol>
+<p style="margin: 2.05pt 0in 0.0001pt 43pt; text-indent: -0.25in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">2.<span style="font: 7.0pt &#39;Times New Roman&#39;;">    </span>The form is then submitted to the Program Director for their signature and to complete Section 1.</p>
+<p style="margin: 2.05pt 0in 0.0001pt 43pt; text-indent: -0.25in; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;">3.<span style="font: 7.0pt &#39;Times New Roman&#39;;">    </span>The form is then submitted totheDirectorforInternationalPrograms<span style="letter-spacing: -0.2pt;">to approve the withdrawal process</span>(Section 2).<span class="Apple-converted-space"> </span></p>
+<ol style="list-style-position: inside;" start="4"><li> The student will take the completed form to Bursar’s office for reimbursementprocessing (Section 3).</li><li> A Bursar representative will send a copy of the completed form to the Office of International Programs in UC204.</li></ol>
+<p style="margin: 2pt 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><em><u><span style="font-size: 18pt;">Spring Break Refund Policy:</span></u></em></strong></p>
+<ul style="margin-bottom: 0in; caret-color: #000000; color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0in; list-style-position: inside;" type="disc"><li style="font-size: 10pt;"><strong>Withdrawal on or before<span class="Apple-converted-space"> </span><span style="color: red;">Thursday, December 13, 2018</span>:<span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;">Complete refund excluding the non-refundable deposit of $250.00.<span class="Apple-converted-space"> </span></span></li><li style="font-size: 10pt;"><strong>Withdrawal after<span class="Apple-converted-space"> </span><span style="color: red;">Thursday,</span><span style="color: red;">December 13, 2018</span>: <span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;">Costs for airfare, rail, admissions, and hotel(s) (including any cancellation penalties or charges imposed by the airline, hotel, or other prepaid expenses) and all administrative fees incurred are forfeited: the remainder will be refunded, excluding the non-refundable deposit of $250.00.<span class="Apple-converted-space"> </span></span></li><li style="font-size: 10pt;"><strong>Withdrawal on or after<span class="Apple-converted-space"> </span><span style="color: red;">Thursday, January 17, 2019</span>:<span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;"> All costs are forfeited; no refunds.</span></li></ul>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><u><span style="font-size: 10pt;">Spring Break NOTES</span></u></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><em><span style="font-size: 10pt;">Health Clearance Form:<span class="Apple-converted-space"> </span></span></em></strong><span style="font-size: 10pt;">STUDENTS MUST MAKE SURE THAT THE REQUIRED HEALTH CLEARENCE FORM HAS BEEN APPROVED &amp; CLEARED. <span class="Apple-converted-space"> </span>IF YOUR HEALTH CLEARENCE HAS BEEN DENIED BY YOUR PHYSICIAN PAY CLOSE ATTENTION TO THE WITHDRAWAL DATES.  <span class="Apple-converted-space"> </span>Students should complete the<span class="Apple-converted-space"> </span><strong>Health Clearance Form</strong>before<span class="Apple-converted-space"> </span><strong><em><span style="color: red;">Thursday, December 13, 2018</span></em></strong><em>,</em>in order to receive a full refund, excluding the non-refundable deposit of $250.00. <span class="Apple-converted-space"> </span>Remember, this form must be mailed by your physician or University Health Services (UHS) to the Clayton States’ Office of International Programs.</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt; letter-spacing: -0.15pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><em><span style="font-size: 10pt;">Add/Drop/Withdrawal Periods from the Course:</span></em></strong><span style="font-size: 10pt;">Students who are considering dropping the course need to refer to the Academic Calendar for the current semester to review add/drop dates, withdrawal dates, etc. to make sure these dates do not affect your withdrawal process from the study abroad program. <span class="Apple-converted-space"> </span>If you have questions or concerns, speak with your Academic Adviser and Program Director. The Academic Calendar can be located here:<span class="Apple-converted-space"> </span><span style="color: blue; text-decoration: underline;"><a style="color: purple; text-decoration: underline;" href="http://www.clayton.edu/calendar" rel="nofollow">http://www.clayton.edu/calendar</a></span></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt; letter-spacing: -0.15pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><em><u><span style="font-size: 18pt;">Maymester/Summer Refund Policy:</span></u></em></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><em><u><span style="font-size: 10pt;">Maymester/Summer Refund Policy:</span></u></em></strong></p>
+<ul style="margin-bottom: 0in; caret-color: #000000; color: #000000; font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0in; list-style-position: inside;" type="disc"><li style="font-size: 10pt;"><strong>Withdrawal on or before<span class="Apple-converted-space"> </span><span style="color: red;">Tuesday, February 12, 2019</span>:<span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;">Complete refund excluding the non-refundable deposit of $250.00.<span class="Apple-converted-space"> </span></span></li><li style="font-size: 10pt;"><strong>Withdrawal after<span class="Apple-converted-space"> </span><span style="color: red;">Tuesday, February 26, 2019</span>: <span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;">Costs for airfare, rail, admissions, and hotel(s) (including any cancellation penalties or charges imposed by the airline, hotel, or other prepaid expenses) and all administrative fees incurred are forfeited: the remainder will be refunded, excluding the non-refundable deposit of $250.00.<span class="Apple-converted-space"> </span></span></li><li style="font-size: 10pt;"><strong>Withdrawal on or after<span class="Apple-converted-space"> </span><span style="color: red;">Monday, March 25, 2019</span>:<span class="Apple-converted-space"> </span></strong><span style="font-size: 10pt;"> All costs are forfeited; no refunds.</span></li></ul>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><u><span style="font-size: 10pt;">Maymester/Summer NOTES</span></u></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><em><span style="font-size: 10pt;">Health Clearance Form:</span></em></strong><span style="font-size: 10pt;"><em>STUDENTS MUST MAKE SURE THAT THE REQUIRED HEALTH CLEARENCE FORM HAS BEEN APPROVED &amp; CLEARED. <span class="Apple-converted-space"> </span>IF YOUR HEALTH CLEARENCE HAS BEEN DENIED BY YOUR PHYSICIAN PAY CLOSE ATTENTION TO THE WITHDRAWAL DATES.<span class="Apple-converted-space"> </span></em>  Students should complete the<span class="Apple-converted-space"> </span><strong>Health Clearance Form</strong>before<strong><em><span style="color: red;">Tuesday, February 26, 2019</span></em></strong>, in order to receive a full refund, excluding the non-refundable deposit of $250.00. <span class="Apple-converted-space"> </span>Remember, this form must be mailed by your physician or University Health Services (UHS) to the Clayton States’ Office of International Programs.</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt; letter-spacing: -0.15pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><em><span style="font-size: 10pt;">Add/Drop/Withdrawal Periods from the Course:</span></em></strong><span style="font-size: 10pt;">Students who are considering dropping the course need to refer to the Academic Calendar for the current semester to review add/drop dates, withdrawal dates, etc. to make sure these dates do not affect your withdrawal process from the study abroad program. <span class="Apple-converted-space"> </span>If you have questions or concerns, speak with your Academic Adviser and Program Director.  The Academic Calendar can be located here:<span class="Apple-converted-space"> </span><span style="color: blue; text-decoration: underline;"><a style="color: purple; text-decoration: underline;" href="http://www.clayton.edu/calendar" rel="nofollow">http://www.clayton.edu/calendar</a></span></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt;">Requests for refunds and withdrawal from the program must be made in writing to the Office of International Programs. <span class="Apple-converted-space"> </span>If program withdrawal is necessary for extenuating circumstances (Hardship Withdrawal), refunds will be considered on a case by case basis and a detailed reason for the hardship is required in section 5 below. Every effort will be made to refund as much as possible in the case of a hardship withdrawal with the exception of the non-refundable deposit and any expenses that have been incurred for the program as listed above.</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt;">All students must register and pay in full for the program fees and course tuition by the final payment deadline or they will be dropped from the program.<span class="Apple-converted-space"> </span></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><span style="font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><span style="font-size: 10pt;">Students will receive a f</span></strong><strong><span style="font-size: 10pt; letter-spacing: -0.15pt;">ull refund if the program is cancelled due to lack of participants. <span class="Apple-converted-space"> </span></span></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><span style="font-size: 10pt; letter-spacing: -0.15pt;"> </span></strong></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; text-align: justify;"><strong><em><span style="font-size: 10pt; color: red; letter-spacing: -0.15pt; background-color: yellow; background-position: initial initial; background-repeat: initial initial;">IMPORTANT: Study Abroad Refunds may automatically apply towards any outstanding tuition balance on your student account.</span></em></strong></p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Refund Request</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=fc0d33bb13e617401784b3b12244b000&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Refund Request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 15:04:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fc0d33bb13e617401784b3b12244b000</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Refund Request</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_fc0d33bb13e617401784b3b12244b000</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-10 20:26:36</sys_updated_on>
+        <table_name>x_clstu_abroad_submissions</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=fc0d33bb13e617401784b3b12244b000"/>
+    <fx_price action="delete_multiple" query="id=fc0d33bb13e617401784b3b12244b000"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>fc0d33bb13e617401784b3b12244b000</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 15:04:36</sys_created_on>
+        <sys_id>380d33bb13e617401784b3b12244b002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-14 15:04:36</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>fc0d33bb13e617401784b3b12244b000</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-14 15:04:36</sys_created_on>
+        <sys_id>740d33bb13e617401784b3b12244b003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-14 15:04:36</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

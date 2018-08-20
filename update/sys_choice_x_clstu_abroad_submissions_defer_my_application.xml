@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="defer_my_application" table="x_clstu_abroad_submissions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Academics</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:21:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>405500d5135a93001784b3b12244b0ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:21:53</sys_updated_on>
+            <value>academics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancellation of the Program</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:22:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8758c95135a93001784b3b12244b037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:22:28</sys_updated_on>
+            <value>cancellation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deferred Finances</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:21:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>684500d5135a93001784b3b12244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:21:38</sys_updated_on>
+            <value>deferred_finances</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4860059135a93001784b3b12244b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:27:07</sys_updated_on>
+            <value>defer_other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lack of Finances</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:21:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62050019135a93001784b3b12244b05d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:21:00</sys_updated_on>
+            <value>finances</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Health or Safety Concern</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:26:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a956c019135a93001784b3b12244b0f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:26:21</sys_updated_on>
+            <value>health_concern</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Housing Challenge</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:24:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c406c419135a93001784b3b12244b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:24:53</sys_updated_on>
+            <value>housing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insuffienct Advising or Support</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:23:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ea5c419135a93001784b3b12244b075</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:23:23</sys_updated_on>
+            <value>insufficient_advising</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lack of Information</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:22:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d8500d5135a93001784b3b12244b003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:22:46</sys_updated_on>
+            <value>lack_info</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lack of Family or Community Support</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:26:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c468c19135a93001784b3b12244b0bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:26:00</sys_updated_on>
+            <value>lack_support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sport, Music or Artistic Obligation</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:24:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45f5c419135a93001784b3b12244b067</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:24:41</sys_updated_on>
+            <value>obligation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Personal Obligation</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:25:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0164019135a93001784b3b12244b048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:25:12</sys_updated_on>
+            <value>personal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prefer not to say</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:26:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54760019135a93001784b3b12244b061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:26:49</sys_updated_on>
+            <value>prefer_not_to_say</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time away from job</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:25:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19264c19135a93001784b3b12244b0ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:25:31</sys_updated_on>
+            <value>time_from_job</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>defer_my_application</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Timing of the Program</label>
+            <language>en</language>
+            <name>x_clstu_abroad_submissions</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:22:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9065ccd5135a93001784b3b12244b076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:22:11</sys_updated_on>
+            <value>timing</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>defer_my_application</element>
+            <name>x_clstu_abroad_submissions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-05-24 16:21:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>cb150895135a93001784b3b12244b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>defer_my_application</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_submissions_defer_my_application</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-05-24 16:21:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

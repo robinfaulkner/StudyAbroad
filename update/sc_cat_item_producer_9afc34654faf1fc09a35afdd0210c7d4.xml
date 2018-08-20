@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Student Resources">1b25e2434fda5b009a35afdd0210c75c</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica;"><strong><u><span style="font-size: 14.0pt;">Application Deadline</span></u></strong><strong><span style="font-size: 14.0pt;">: Monday, January 28, 2019 by 11:59 PM  </span></strong></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica;"><strong><u><span style="font-size: 14.0pt;">Awards Announced</span></u></strong><strong><span style="font-size: 14.0pt;">: March 1, 2019</span></strong></span></p>
+<p style="margin: 0in 0in 0.0001pt 1.5in; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica;">                       </span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;">Requirements for the STARS Scholarship:</span></p>
+<ol style="margin-bottom: 0in; list-style-position: inside;"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Complete ALL of the required fields for the STARS Scholarship Application.</span></span></li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">This award is only for students enrolled in a degree program at Clayton State University.</span></span></li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">The applicant must be enrolled in a study abroad program to be eligible for the award.</span></span></li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Must have a minimum GPA of a 2.5 to qualify. <strong>STARS GPA - Minimum 2.5 GPA. Both your overall and institutional GPA should not be below a 2.5.  </strong></span></span></span>
+<ol style="margin-bottom: 0in; list-style-position: inside;" type="a"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;"><em>If your GPA is not available then contact your Academic Advisor or the Undergraduate or Graduate Admissions department to obtain your GPA information.</em></span></span></li></ol>
+</li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Submit a copy of your <strong>Unofficial Transcript</strong></span></span></span>
+<ol style="margin-bottom: 0in; list-style-position: inside;" type="a"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;"><em>Can be found via the DUCK.  Check under ‘Student Services’ for ‘Transcript (Unofficial)’. Submit a PDF or screenshot.</em></span></span></li></ol>
+</li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Submit a copy of your <strong>Financial Aid Award Letter</strong></span></span></span>
+<ol style="margin-bottom: 0in; list-style-position: inside;" type="a"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;"><em>If applicable to Fin Aid recipients; this can be found via the DUCK in the Financial Aid portal. Submit a PDF or screenshot</em>.</span></span></li></ol>
+</li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Submit a copy of your <strong>HOPE Award Letter</strong></span></span></span>
+<ol style="margin-bottom: 0in; list-style-position: inside;" type="a"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;"><em>If applicable to HOPE recipients; this can be found via the DUCK in the Financial Aid portal. Submit a PDF or screenshot</em>.</span></span></li></ol>
+</li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Submit your <strong>STARS Essay</strong>. </span></span></span>
+<ol style="margin-bottom: 0in; list-style-position: inside;" type="a"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">The STARS Committee is looking to award students who can show one or more of the following connections below between the program of study and how it applies to the applicant going abroad.  How will studying abroad benefit your long-term goals and aspirations?  Studying abroad is not just about the here and now (the short-term), but about the connections you make by networking, utilizing the opportunity as part of your career path (<strong><em>side note: </em></strong><em>your study abroad program can go on your resume</em>), by becoming a globalized citizen, and much more. </span></span></li><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Here are several general statements that will provide you with idea(s) for your essay.  Choose one or more that is applicable to you:</span></span></li></ol>
+</li></ol>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"><strong><u>Personal Statement</u>:</strong> How will your study abroad experience connect with your program of study? For example, how will your study abroad experience in France connect with and impact of your educational experience in the Clayton State University Teacher Education program or how will your study abroad experience in Germany connect with and impact your educational experience in Clayton State University’s MBA program?</span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"><strong><u>Personal Development</u>: </strong>How will studying abroad benefit your long-term goals and aspirations (personal, academic, professional or otherwise)?</span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"><strong><u>Engagement and Preparation</u>:</strong> The Program Director (faculty member) will provide a very structured learning experience, but what research have you done to prepare for study abroad and what might you do to get the most out of your experience in your host country?</span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"><strong><u>Cultural Perspectives</u>:</strong> An effective study abroad experience requires knowledge of the host country’s culture. Discuss one or more significant issues (social, political, economic, environmental, etc.) currently facing your intended host country. How might these intersect with your intended studies or your personal development or personal goals? How might you plan to learn, engage (if appropriate).</span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<p style="margin: 0in 0in 0.0001pt 40.5pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"><strong><u>Identity &amp; Diversity</u>:</strong> Consider your background and experiences, how these shape your perceptions and interactions with the world, and how others in turn perceive and interact with you. What research have you done on the culture, belief and social norms, of your host country? What did you find and how might this impact your visit? You may also discuss how this information may inform how you prepare for your stay or how you may interact or behave while traveling?</span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: helvetica; font-size: 10pt;"> </span></p>
+<ol style="margin-bottom: 0in; list-style-position: inside;" start="9"><li style="font-size: 10pt;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;">Did the essay follow the Essay Guidelines?   </span></span></li><li style="color: red;"><span style="font-size: 11px;"><span style="font-family: helvetica; font-size: 10pt;"><strong>All questions must be answered on the STARS Scholarship Application.  Incomplete applications will NOT be considered.</strong></span></span></li></ol>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>STARS Scholarship Application</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9afc34654faf1fc09a35afdd0210c7d4&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>STARS Scholarship Application</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-26 18:22:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9afc34654faf1fc09a35afdd0210c7d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>STARS Scholarship Application</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_9afc34654faf1fc09a35afdd0210c7d4</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-26 18:24:06</sys_updated_on>
+        <table_name>x_clstu_abroad_stars_scholarship</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=9afc34654faf1fc09a35afdd0210c7d4"/>
+    <fx_price action="delete_multiple" query="id=9afc34654faf1fc09a35afdd0210c7d4"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>9afc34654faf1fc09a35afdd0210c7d4</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-26 18:22:03</sys_created_on>
+        <sys_id>9afc34654faf1fc09a35afdd0210c7d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-26 18:22:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>9afc34654faf1fc09a35afdd0210c7d4</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-26 18:22:03</sys_created_on>
+        <sys_id>12fc34654faf1fc09a35afdd0210c7d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-26 18:22:03</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_clstu_abroad_submissions" version="2" view="Orientation">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Study Abroad Submissions - Orientation" name="x_clstu_abroad_submissions" related_list="NULL" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">550e6aec4f4caf009a35afdd0210c77e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-17 20:33:24</sys_created_on>
+            <sys_id>1d0e6aec4f4caf009a35afdd0210c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-17 20:33:24</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Study Abroad Submissions - Orientation</calculated_name>
+            <filter/>
+            <name>x_clstu_abroad_submissions</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-17 20:33:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>550e6aec4f4caf009a35afdd0210c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Study Abroad Submissions - Orientation</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_related_x_clstu_abroad_submissions_Orientation</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-17 20:33:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Orientation" name="Orientation">de70aa204f4caf009a35afdd0210c7a0</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

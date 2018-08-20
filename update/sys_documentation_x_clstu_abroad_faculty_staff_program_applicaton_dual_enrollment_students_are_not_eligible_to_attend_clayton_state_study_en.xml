@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study" label="Dual Enrollment (DE) students are not eligible to attend Clayton State study" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study</element>
+            <help/>
+            <hint/>
+            <label>Dual Enrollment (DE) students are not eligible to attend Clayton State study</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <plural>Dual Enrollment (DE) students are not eligible to attend Clayton State studies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 18:38:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1ead150413139b801784b3b12244b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dual Enrollment (DE) students are not eligible to attend Clayton State study</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_documentation_x_clstu_abroad_faculty_staff_program_applicaton_dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study_en</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 18:38:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

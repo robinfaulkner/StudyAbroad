@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="how_often_take_place" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_often_take_place</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>This program will be offered on a continuous, yearly basis</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:41:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a99095c813df5b801784b3b12244b007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:41:31</sys_updated_on>
+            <value>continuous</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_often_take_place</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>This program will be offered every other year</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:42:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bec0198813df5b801784b3b12244b08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:42:03</sys_updated_on>
+            <value>every_other_year</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_often_take_place</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>I'm not sure</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:43:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3611d9c813df5b801784b3b12244b0be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:43:24</sys_updated_on>
+            <value>not_sure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>how_often_take_place</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>This program will only be offered the one time</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:43:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d0155c813df5b801784b3b12244b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:43:02</sys_updated_on>
+            <value>one_time</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>how_often_take_place</element>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:41:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4fa0198813df5b801784b3b12244b07e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>how_often_take_place</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_faculty_staff_program_applicaton_how_often_take_place</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:41:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

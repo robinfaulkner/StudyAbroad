@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6e92051d13321b401784b3b12244b010" sys_domain="global" table="x_clstu_abroad_study_abroad_approval" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>9f967c71130317801784b3b12244b092</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>13967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_application</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>93967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_type</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>17967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>97967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>1b967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gpa</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>9b967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>good_academic_standing</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>1f967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_permission</element>
+            <position>8</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>9f967c71130317801784b3b12244b093</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_age</element>
+            <position>9</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>13967c71130317801784b3b12244b094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:01:20</sys_created_on>
+            <sys_id>93967c71130317801784b3b12244b094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:01:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount_to_refund_student</element>
+            <position>11</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:33:51</sys_created_on>
+            <sys_id>e70e74f1130317801784b3b12244b0d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:33:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agency_acct_number</element>
+            <position>12</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-02 16:35:56</sys_created_on>
+            <sys_id>c28ef0f5130317801784b3b12244b0f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-02 16:35:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>health_clearance_approval</element>
+            <position>13</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:17:14</sys_created_on>
+            <sys_id>a157d5ed4fef1fc09a35afdd0210c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_study_abroad_approval" sys_domain="global" view="Default view">6e92051d13321b401784b3b12244b010</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:17:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-06-18 17:21:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e92051d13321b401784b3b12244b010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_study_abroad_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_6e92051d13321b401784b3b12244b010</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-06-18 17:21:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

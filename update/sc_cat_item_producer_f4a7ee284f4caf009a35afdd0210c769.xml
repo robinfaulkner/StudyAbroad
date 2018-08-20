@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Orientation">8fe41ea44f0caf009a35afdd0210c75f</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>RSVP for Study Abroad Orientation for Maymester/Summer Semester</p>
+<p>Date: Thursday, February 21, 2019 from 6:30 to 9:00 PM</p>
+<p>Maymester/Summer Students Only</p>
+<p>Orientation is an integral part of preparing students to study abroad overseas with Clayton State University. Failure to attend the study abroad orientations is an automatic dismissal from the program. Students MUST ATTEND two orientations to participate on their study abroad program. This orientation is held with the Office of International Programs, Study Abroad Office, and the second orientation will be held with the study abroad Program Director. Each orientation is conducted separately and at different intervals. To learn more about the orientation held by the program director, please contact them directly. The Program Director orientation is conducted about one to two months prior to the departure date.</p>
+<p>Date of Orientation: Thursday, February 21, 2019, from 6:30 to 9:00 PM in ROOM (TBA) on the Main Campus.</p>
+<p>Maps &amp; Directions: <a title="http://www.clayton.edu/Maps/Main-Campus" href="http://www.clayton.edu/Maps/Main-Campus" target="_blank" rel="nofollow">http://www.clayton.edu/Maps/Main-Campus</a></p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Maymester/Summer Orientation Registration</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=f4a7ee284f4caf009a35afdd0210c769&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:05:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f4a7ee284f4caf009a35afdd0210c769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maymester/Summer Orientation Registration</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_f4a7ee284f4caf009a35afdd0210c769</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:05:31</sys_updated_on>
+        <table_name>x_clstu_abroad_submissions</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=f4a7ee284f4caf009a35afdd0210c769"/>
+    <fx_price action="delete_multiple" query="id=f4a7ee284f4caf009a35afdd0210c769"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>f4a7ee284f4caf009a35afdd0210c769</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:05:31</sys_created_on>
+        <sys_id>7ca7ee284f4caf009a35afdd0210c76a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:05:31</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>f4a7ee284f4caf009a35afdd0210c769</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-17 20:05:31</sys_created_on>
+        <sys_id>b4a7ee284f4caf009a35afdd0210c76b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-17 20:05:31</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

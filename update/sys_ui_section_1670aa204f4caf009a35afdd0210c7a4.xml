@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="1670aa204f4caf009a35afdd0210c7a4" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="Orientation">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>a72eb06d134423001784b3b12244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submission_type</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>2f2eb06d134423001784b3b12244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>af2eb06d134423001784b3b12244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>232eb06d134423001784b3b12244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>orientation</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>a32eb06d134423001784b3b12244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>online_orientation_agreement</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-20 14:58:42</sys_created_on>
+            <sys_id>272eb06d134423001784b3b12244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_submissions" sys_domain="global" view="de70aa204f4caf009a35afdd0210c7a0">1670aa204f4caf009a35afdd0210c7a4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:58:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_clstu_abroad_submissions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-08-17 19:34:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1670aa204f4caf009a35afdd0210c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_submissions</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_1670aa204f4caf009a35afdd0210c7a4</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-08-17 19:34:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Orientation" name="Orientation">de70aa204f4caf009a35afdd0210c7a0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

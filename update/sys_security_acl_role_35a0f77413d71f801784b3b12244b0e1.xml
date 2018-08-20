@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-12 13:15:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>35a0f77413d71f801784b3b12244b0e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_clstu_abroad_class_standing.x_clstu_abroad.class_standing_user</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_security_acl display_value="x_clstu_abroad_class_standing">31a0f77413d71f801784b3b12244b0dd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_35a0f77413d71f801784b3b12244b0e1</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-07-12 13:15:56</sys_updated_on>
+        <sys_user_role display_value="x_clstu_abroad.class_standing_user" name="x_clstu_abroad.class_standing_user">e5a0f37413d71f801784b3b12244b0a3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

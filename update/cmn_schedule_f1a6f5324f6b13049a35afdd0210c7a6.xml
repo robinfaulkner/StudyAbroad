@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <description/>
+        <document/>
+        <document_key/>
+        <name>Study Abroad</name>
+        <parent display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</parent>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-07-30 19:46:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f1a6f5324f6b13049a35afdd0210c7a6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Study Abroad</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>cmn_schedule_f1a6f5324f6b13049a35afdd0210c7a6</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-15 20:27:26</sys_updated_on>
+        <time_zone>US/Eastern</time_zone>
+        <type>notification</type>
+    </cmn_schedule>
+</record_update>

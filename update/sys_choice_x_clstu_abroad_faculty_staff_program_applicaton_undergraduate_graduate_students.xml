@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="undergraduate_graduate_students" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>undergraduate_graduate_students</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Both</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:46:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8d1d10c13df5b801784b3b12244b084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:46:33</sys_updated_on>
+            <value>Both</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>undergraduate_graduate_students</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Graduate</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:46:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1b1510c13df5b801784b3b12244b0f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:46:02</sys_updated_on>
+            <value>Graduate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>undergraduate_graduate_students</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undergraduate</label>
+            <language>en</language>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:45:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e081110c13df5b801784b3b12244b053</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:45:46</sys_updated_on>
+            <value>undergraduate</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>undergraduate_graduate_students</element>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-09 17:45:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d5a155c813df5b801784b3b12244b090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>undergraduate_graduate_students</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_faculty_staff_program_applicaton_undergraduate_graduate_students</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-09 17:45:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

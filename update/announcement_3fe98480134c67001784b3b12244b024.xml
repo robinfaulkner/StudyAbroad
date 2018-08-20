@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text>Submit Health Clearance Form</details_link_text>
+        <details_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</details_page>
+        <details_url>https://claytondev.service-now.com/studyabroad?id=sc_cat_item&amp;sys_id=101f6ddd13b21b401784b3b12244b091&amp;sysparm_category=7dd745214fef1fc09a35afdd0210c70e</details_url>
+        <dismiss_options>not_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2019-02-26 13:00:00</from>
+        <glyph>exclamation-triangle</glyph>
+        <glyph_alt_text/>
+        <name>Maymester/Summer Programs  Submit Health Clearance Form</name>
+        <public>true</public>
+        <roles/>
+        <summary>Greetings, &#13;
+&#13;
+This is a notification reminder that students must complete the Health Clearance Form before Tuesday, February 26, 2019  .  In the event a student is not cleared to travel by a health professional, students must withdraw from the study abroad program on the previously mentioned date in order to receive a full refund, excluding the non-refundable deposit of $250.00. &#13;
+&#13;
+This document is mandatory for all students studying on a program.  Failure to provide the document will prevent students from attending the program.   &#13;
+&#13;
+Thank you, &#13;
+&#13;
+The Study Abroad Office  </summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-15 19:19:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3fe98480134c67001784b3b12244b024</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Maymester/Summer Programs  Submit Health Clearance Form</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>announcement_3fe98480134c67001784b3b12244b024</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-15 19:21:21</sys_updated_on>
+        <title>Maymester/Summer Programs Submit Health Clearance Form</title>
+        <to>2019-03-19 12:00:00</to>
+        <type>7af05c9513bed7401784b3b12244b0a6</type>
+    </announcement>
+</record_update>

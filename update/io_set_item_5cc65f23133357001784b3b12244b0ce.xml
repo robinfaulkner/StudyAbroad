@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>1500</order>
+        <sc_cat_item display_value="History in Italy">73b0873813da53001784b3b12244b052</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-14 20:57:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5cc65f23133357001784b3b12244b0ce</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Additional Conditions Specific to the Italy Program.History in Italy</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>io_set_item_5cc65f23133357001784b3b12244b0ce</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-14 20:57:41</sys_updated_on>
+        <variable_set display_value="Additional Conditions Specific to the Italy Program">0911555813b657401784b3b12244b039</variable_set>
+    </io_set_item>
+</record_update>

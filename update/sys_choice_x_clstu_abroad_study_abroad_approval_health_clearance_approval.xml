@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="health_clearance_approval" table="x_clstu_abroad_study_abroad_approval" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>health_clearance_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cleared</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be7759ed4fef1fc09a35afdd0210c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:18:11</sys_updated_on>
+            <value>cleared</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>health_clearance_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Document is incomplete: Missing Information</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:20:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2eb7556d4fef1fc09a35afdd0210c7c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:20:04</sys_updated_on>
+            <value>missing_info</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>health_clearance_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Need More Information</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:18:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a7556d4fef1fc09a35afdd0210c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:18:49</sys_updated_on>
+            <value>need_more</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>health_clearance_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Cleared</label>
+            <language>en</language>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sequence/>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:18:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c99799ed4fef1fc09a35afdd0210c777</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:18:31</sys_updated_on>
+            <value>not_cleared</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>health_clearance_approval</element>
+            <name>x_clstu_abroad_study_abroad_approval</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-07-26 20:18:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>678719ed4fef1fc09a35afdd0210c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>health_clearance_approval</sys_name>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_choice_x_clstu_abroad_study_abroad_approval_health_clearance_approval</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-07-26 20:18:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Study Abroad Approval" max_length="40" name="x_clstu_abroad_study_abroad_approval" type="collection">
+        <element label="Agency Acct Number" max_length="50" name="agency_acct_number" type="string"/>
+        <element label="Amount to refund student" max_length="10" name="amount_to_refund_student" type="string"/>
+        <element choice="1" label="Approval Status" max_length="40" name="approval_status" type="choice">
+            <choice>
+                <element label="Approved" value="approved"/>
+                <element label="Rejected" value="rejected"/>
+                <element label="Request Additional Information" value="request_info"/>
+                <element label="Requested" value="requested"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval Type" max_length="40" name="approval_type" type="string">
+            <choice>
+                <element label="Program Application" value="program_application"/>
+                <element label="Refund - Bursar" value="refund_bursar"/>
+                <element label="Refund - International Programs" value="refund_international_programs"/>
+                <element label="Refund - Program Director" value="refund_program_director"/>
+            </choice>
+        </element>
+        <element choice="1" label="Is the student in good academic standing at the time of application?" max_length="40" name="good_academic_standing" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="GPA" max_length="3" name="gpa" type="string"/>
+        <element choice="1" label="Health Clearance Approval" max_length="40" name="health_clearance_approval" type="choice">
+            <choice>
+                <element label="Cleared" value="cleared"/>
+                <element label="Document is incomplete: Missing Information" value="missing_info"/>
+                <element label="Need More Information" value="need_more"/>
+                <element label="Not Cleared" value="not_cleared"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Will the student be 18 years old at the time of departure? " max_length="40" name="student_age" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Student Application " max_length="32" name="student_application" reference="x_clstu_abroad_submissions" type="reference"/>
+        <element choice="1" label="Has the student been given special permission NOT to take the course?" max_length="40" name="student_permission" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="student_application"/>
+        </index>
+    </element>
+</database>

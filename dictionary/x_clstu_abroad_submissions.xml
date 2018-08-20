@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Study Abroad Submissions" max_length="40" name="x_clstu_abroad_submissions" type="collection">
+        <element label="Academic Credit" max_length="40" name="academic_credit" type="boolean"/>
+        <element label="Acceptance into my program" max_length="40" name="acceptance" type="boolean"/>
+        <element label="Additional Conditions" max_length="40" name="additional_conditions" type="boolean"/>
+        <element label="Have an adventure" max_length="40" name="adventure" type="boolean"/>
+        <element label="Africa" max_length="40" name="africa" type="boolean"/>
+        <element label="Antarctica" max_length="40" name="antarctica" type="boolean"/>
+        <element label="Appropriate Conduct and " max_length="40" name="appropriate_conduct" type="boolean"/>
+        <element label="Approval" max_length="32" name="approval" reference="x_clstu_abroad_study_abroad_approval" type="reference"/>
+        <element attributes="ignore_filter_on_new=true,edge_encryption_enabled=true,ref_ac_display_value,ts_weight=50" choice="1" dependent="approval.approval_status" dependent_on_field="approval.approval_status" label="Approval Status" max_length="32" name="approval_status" type="choice" use_dependent_field="true">
+            <choice>
+                <element label="New" sequence="100" value="new"/>
+                <element label="Approved" sequence="200" value="approved"/>
+                <element label="Rejected" sequence="300" value="rejected"/>
+                <element label="Request Additional Information" sequence="400" value="request_info"/>
+            </choice>
+        </element>
+        <element label="Asia" max_length="40" name="asia" type="boolean"/>
+        <element label="Australia" max_length="40" name="australia" type="boolean"/>
+        <element label="Cell Phone" max_length="32" name="cell_phone" type="string"/>
+        <element label="City Issued" max_length="100" name="city_issued" type="string"/>
+        <element label="City/ State/ Zip Code" max_length="1000" name="city_state_zip_code" type="string"/>
+        <element label="Class Standing" max_length="100" name="class_standing" type="string"/>
+        <element label="College/university currently attending" max_length="100" name="college_university" type="string"/>
+        <element label="Contact " max_length="5000" name="contactcontact" type="string"/>
+        <element label="Cost" max_length="40" name="cost" type="boolean"/>
+        <element choice="1" label="Country of Citizenship" max_length="40" name="country_of_citizenship" reference="core_country" type="reference">
+            <choice/>
+        </element>
+        <element label="Select the country your passport is from" max_length="32" name="country_passport" reference="core_country" type="reference"/>
+        <element label="Course Registration Payment" max_length="40" name="course_registration_payment" type="boolean"/>
+        <element label="Date of Birth" max_length="50" name="date_of_birth" type="glide_date"/>
+        <element label="I would like to defer my application because of" max_length="4000" name="defer_my_application" type="glide_list"/>
+        <element choice="1" label="Are you enrolled in a program leading to a degree or diploma?" max_length="40" name="degree_diploma" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Describe the independent travel" max_length="1000" name="describe_the_independent_travel" type="string"/>
+        <element label="Dicrimination or Identity Concern" max_length="40" name="dicrimination_identity_concern" type="boolean"/>
+        <element choice="1" label="I have discussed a study abroad program with my academic advisor." max_length="40" name="discussed_academic_advisor" type="choice">
+            <choice>
+                <element label="Yes" sequence="100" value="yes"/>
+                <element label="Not yet" sequence="200" value="nor_yet"/>
+            </choice>
+        </element>
+        <element label="Emergency Address 1" max_length="80" name="emergency_address_1" type="string"/>
+        <element label="Emergency Address 2" max_length="85" name="emergency_address_2" type="string"/>
+        <element label="Emergency Contact 1" max_length="50" name="emergency_contact_1" type="string"/>
+        <element label="Emergency Contact 2" max_length="55" name="emergency_contact_2" type="string"/>
+        <element label="Emergency Email 1" max_length="90" name="emergency_email_1" type="string"/>
+        <element label="Emergency Email 2" max_length="95" name="emergency_email_2" type="string"/>
+        <element label="Emergency Phone 1" max_length="70" name="emergency_phone_1" type="string"/>
+        <element label="Emergency Phone 2" max_length="75" name="emergency_phone_2" type="string"/>
+        <element label="Emergency Relationship 1" max_length="60" name="emergency_relationship_1" type="string"/>
+        <element label="Emergency Relationship 2" max_length="65" name="emergency_relationship_2" type="string"/>
+        <element label="Europe" max_length="40" name="europe" type="boolean"/>
+        <element label="Expiration Date" max_length="40" name="expiration_date" type="glide_date"/>
+        <element label="Explore my heritage" max_length="40" name="explore_my_heritage" type="boolean"/>
+        <element label="Faculty/ Teacher Leader Travel" max_length="40" name="faculty_teacher_leader_travel" type="boolean"/>
+        <element label="Final Agreement" max_length="40" name="final_agreement" type="boolean"/>
+        <element label="Financial Aid" max_length="40" name="financial_aid" type="boolean"/>
+        <element label="Food issues/ Dietary restrictions" max_length="40" name="food_issues" type="boolean"/>
+        <element label="Leaving my friends or family behind" max_length="40" name="friends_family" type="boolean"/>
+        <element label="Funding Not Sure" max_length="40" name="funding_not_sure" type="boolean"/>
+        <element label="Fundraising/ Crowdfunding" max_length="40" name="fundraising_crowdfunding" type="boolean"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element label="Female" value="female"/>
+                <element label="Male" value="male"/>
+            </choice>
+        </element>
+        <element label="Get away from home" max_length="40" name="get_away" type="boolean"/>
+        <element label="Improve my chance of getting a good job" max_length="40" name="good_job" type="boolean"/>
+        <element label="GPA" max_length="15" name="gpa" type="decimal"/>
+        <element label="Hardship Withdrawal" max_length="1000" name="hardship_withdrawal" type="string"/>
+        <element choice="1" label="Have passport" max_length="40" name="have_passport" type="choice">
+            <choice>
+                <element label="Yes" sequence="100" value="yes"/>
+                <element label="No, I am applying for a passport" sequence="200" value="no"/>
+            </choice>
+        </element>
+        <element label="Health and/or Safety Issue" max_length="40" name="health_safety_issue" type="boolean"/>
+        <element choice="3" label="Hold check at accounting services for pick-up?" max_length="40" name="hold_check" type="choice">
+            <choice>
+                <element label="Yes" sequence="100" value="yes"/>
+                <element label="No" sequence="200" value="no"/>
+            </choice>
+        </element>
+        <element label="Hold check phone" max_length="100" name="hold_check_phone" type="string"/>
+        <element label="Housing" max_length="40" name="housing" type="boolean"/>
+        <element label="Become more independent" max_length="40" name="independent" type="boolean"/>
+        <element label="I am interested in the following subjects while abroad" max_length="4000" name="interested_subjects_abroad" reference="x_clstu_abroad_study_abroad_subjects" type="glide_list"/>
+        <element label="If my independent travel includes me arriving to the host country early, I under" max_length="40" name="i_agree_03" type="boolean"/>
+        <element label="I agree to discuss the independent travel with the program director and to keep " max_length="40" name="i_agree_to_02" type="boolean"/>
+        <element label="I am studying" max_length="1000" name="i_am_studying" type="string"/>
+        <element label="I understand that I am responsible for any and all FINANCIAL COSTS, RISKS, and L" max_length="40" name="i_understand_01" type="boolean"/>
+        <element label="Job" max_length="40" name="job" type="boolean"/>
+        <element label="That I won't know anyone on my program" max_length="40" name="know_anyone" type="boolean"/>
+        <element label="Learn a language" max_length="40" name="learn_a_language" type="boolean"/>
+        <element label="Learn new skills" max_length="40" name="learn_new_skills" type="boolean"/>
+        <element label="Major/Area of academic interest" max_length="100" name="major_academic_interest" type="string"/>
+        <element label="Medical Agreement" max_length="40" name="medical_agreement" type="boolean"/>
+        <element label="Meet new people" max_length="40" name="meet_new_people" type="boolean"/>
+        <element active="false" label="Missing out on something back home" max_length="40" name="missing_out_home" type="boolean"/>
+        <element choice="1" label="My passport is" max_length="40" name="my_passport_is" type="choice">
+            <choice>
+                <element label="Current" value="current"/>
+                <element label="Expired" value="expired"/>
+                <element label="I don't have a passport" value="no_passport"/>
+                <element label="I don't know" value="do_not_know_passport"/>
+            </choice>
+        </element>
+        <element label="North America" max_length="40" name="north_america" type="boolean"/>
+        <element label="Not sure" max_length="40" name="not_sure" type="boolean"/>
+        <element label="No Questions or Concerns for now" max_length="40" name="no_questions" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Online Orientation Agreement" max_length="40" name="online_orientation_agreement" type="boolean"/>
+        <element label="Orientation for" max_length="32" name="orientation" reference="x_clstu_abroad_submissions" type="reference"/>
+        <element label="Other" max_length="40" name="other" type="boolean"/>
+        <element label="Other Concern" max_length="1000" name="other_concern" type="string"/>
+        <element label="Other Funding" max_length="40" name="other_funding" type="boolean"/>
+        <element label="Other Funding Description" max_length="1000" name="other_funding_description" type="string"/>
+        <element choice="1" label="I have been outside of my home country" max_length="40" name="outside_my_home_country" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Passport Number" max_length="100" name="passport_number" type="string"/>
+        <element label="Personal Savings" max_length="40" name="personal_savings" type="boolean"/>
+        <element choice="1" label="Do you know the exact program you are interested in" max_length="40" name="program_interested" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Reason for Refund" max_length="1000" name="reason_for_refund" type="string"/>
+        <element choice="1" label="I receive financial aid or scholarships from the government or an organization" max_length="40" name="receive_financial_aid" type="choice">
+            <choice>
+                <element label="Yes" sequence="100" value="yes"/>
+                <element label="No" sequence="200" value="no"/>
+                <element label="Not Sure" sequence="200" value="not_sure"/>
+            </choice>
+        </element>
+        <element label="Refund Address " max_length="100" name="refund_address" type="string"/>
+        <element label="Release and Waiver of Liability" max_length="40" name="release_and_waiver_of_liability" type="boolean"/>
+        <element label="Picking the right program" max_length="40" name="right_program" type="boolean"/>
+        <element label="Scholarship/ Grant" max_length="40" name="scholarship_grant" type="boolean"/>
+        <element label="See friends" max_length="40" name="see_friends" type="boolean"/>
+        <element label="See new places" max_length="40" name="see_new_places" type="boolean"/>
+        <element label="Service Learning" max_length="40" name="service_learning" type="boolean"/>
+        <element label="South America" max_length="40" name="south_america" type="boolean"/>
+        <element choice="1" label="Speak to parents" max_length="40" name="speak_to_parents" type="choice">
+            <choice>
+                <element label="No" value="no"/>
+                <element label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="SSN" max_length="20" name="ssn" type="string"/>
+        <element choice="1" default="New" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element label="New" sequence="100" value="new"/>
+                <element label="Open" sequence="200" value="open"/>
+                <element label="Complete" sequence="300" value="complete"/>
+                <element label="Revision Required" sequence="500" value="revision_required"/>
+            </choice>
+        </element>
+        <element label="Street Address" max_length="1000" name="street_address" type="string"/>
+        <element label="Student Address" max_length="100" name="student_address" type="string"/>
+        <element label="Student Name" max_length="32" name="student_name" reference="sys_user" type="reference"/>
+        <element label="Study Abroad" max_length="40" name="study_abroad" type="boolean"/>
+        <element choice="1" label="Study Abroad Program" max_length="40" name="study_abroad_program" reference="x_clstu_abroad_study_abroad_subjects" type="reference">
+            <choice/>
+        </element>
+        <element label="Study or research" max_length="40" name="study_research" type="boolean"/>
+        <element choice="1" label="Submission Type" max_length="40" name="submission_type" type="choice">
+            <choice>
+                <element label="Independent Travel Waiver" sequence="0" value="Independent Travel Waiver"/>
+                <element label="Health Clearance Form" sequence="1" value="Health Clearance Form"/>
+                <element label="Profile" sequence="2" value="Profile"/>
+                <element label="Refund" sequence="3" value="Refund"/>
+                <element label="Passport" sequence="4" value="Passport"/>
+                <element label="Application" sequence="5" value="Application"/>
+                <element label="Orientation" sequence="6" value="Orientation"/>
+            </choice>
+        </element>
+        <element label="How much time do I have to apply and to plan to go?" max_length="40" name="time_apply_go" type="boolean"/>
+        <element label="Trip Cancellation" max_length="40" name="trip_cancellation" type="boolean"/>
+        <element label="An unsupportive parent, teacher or mentor" max_length="40" name="unsupportive_mentor" type="boolean"/>
+        <element label="I'm not sure" max_length="40" name="want_travel_not_sure" type="boolean"/>
+        <index name="index">
+            <element name="student_name"/>
+        </index>
+        <index name="index2">
+            <element name="orientation"/>
+        </index>
+        <index name="index3">
+            <element name="country_passport"/>
+        </index>
+        <index name="index4">
+            <element name="approval"/>
+        </index>
+        <index name="index5">
+            <element name="approval_status"/>
+        </index>
+        <index name="index6">
+            <element name="cell_phone"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="INSERT_OR_UPDATE">
+        <announcement display_value="Submit Health Clearance Form">6901d89513bed7401784b3b12244b0a2</announcement>
+        <order>100</order>
+        <sp_portal display_value="Study Abroad">c96d9c99139a93001784b3b12244b06e</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-06-18 13:45:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7d019c9513bed7401784b3b12244b050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Study Abroad</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>m2m_announcement_portal_7d019c9513bed7401784b3b12244b050</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-06-18 13:45:52</sys_updated_on>
+    </m2m_announcement_portal>
+</record_update>
