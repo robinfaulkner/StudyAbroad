@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Business in Portugal">b46c7df14f8063009a35afdd0210c77d</sc_cat_item>
         <sc_category display_value="Business">bb44ee034fda5b009a35afdd0210c7d3</sc_category>

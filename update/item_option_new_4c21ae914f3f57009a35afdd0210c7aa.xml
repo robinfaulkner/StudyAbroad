@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -24,12 +23,8 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <include_none>false</include_none>
-        <instructions><![CDATA[<div class="OutlineElement Ltr SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
-<div class="OutlineElement Ltr SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
-<p class="Paragraph SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: center;"><span class="TextRun Underlined SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">ASSUMPTION OF RISK, COVENANT NOT TO SUE AND INDEMNIFICATION</span></span><span class="EOP SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
-</div>
+        <instructions><![CDATA[<p class="Paragraph SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: center;"><span class="TextRun Underlined SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">ASSUMPTION OF RISK, COVENANT NOT TO SUE AND INDEMNIFICATION</span></span><span class="EOP SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
 <p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: center;"><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">STATE OF GEORGIA</span></span><span class="EOP SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
-</div>
 <div class="OutlineElement Ltr SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
 <p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: center;"><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">COUNTY OF CLAYTON</span></span><span class="EOP SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
 </div>
@@ -37,7 +32,7 @@
 <p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify;"><span class="EOP SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
 </div>
 <div class="OutlineElement Ltr SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
-<p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify;"><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;">I, the undersigned, (the “Participant”), am participating in the Clayton State University Study Abroad Program in the country of Costa Rica between the dates of May 7-19, 2019. As such, I agree to assume all risk involved with my participation in this Study Abroad Program.  </span></p>
+<p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify;"><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;">I, the undersigned, (the “Participant”), am participating in the Clayton State University Study Abroad Program in the country of Costa Rica between the dates of May 7-16, 2019. As such, I agree to assume all risk involved with my participation in this Study Abroad Program.  </span></p>
 </div>
 <div class="OutlineElement Ltr SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
 <p class="Paragraph SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; word-wrap: break-word; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify;"><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-weight: bold; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">RISKS OF STUDY ABROAD:</span></span><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;"> </span></span><span class="TextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19px; font-variant-ligatures: none;"><span class="NormalTextRun SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;">I acknowledge that the study abroad experience involves risks such as accidents, illness, disease, poor sanitation, inadequate medical care and facilities, terrorism, crime, the hazards of travel, natural disasters, and other hazards including death that arise from a wide variety of events and circumstances which cannot be enumerated. I voluntarily assume all such risk.</span></span><span class="EOP SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 11pt; line-height: 19px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
@@ -103,7 +98,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>assumption_risk</name>
-        <order>300</order>
+        <order>7800</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>I Agree</question_text>
@@ -111,14 +106,14 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help>true</show_help>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
@@ -126,7 +121,7 @@
         <sys_created_on>2018-08-07 17:16:49</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>4c21ae914f3f57009a35afdd0210c7aa</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>I Agree</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -134,7 +129,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_4c21ae914f3f57009a35afdd0210c7aa</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-13 13:45:47</sys_updated_on>
+        <sys_updated_on>2018-08-29 16:18:31</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
@@ -142,7 +137,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Costa Rica Program">98267114133a57401784b3b12244b01c</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

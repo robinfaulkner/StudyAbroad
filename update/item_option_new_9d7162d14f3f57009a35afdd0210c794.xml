@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Business in Jamaica ">bf3231e0135e13001784b3b12244b01a</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -98,12 +97,12 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>assumption_risk</name>
-        <order>300</order>
+        <order>8200</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>I Agree</question_text>
@@ -111,7 +110,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -126,7 +125,7 @@
         <sys_created_on>2018-08-07 17:18:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>9d7162d14f3f57009a35afdd0210c794</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>I Agree</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -134,7 +133,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_9d7162d14f3f57009a35afdd0210c794</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-14 20:53:48</sys_updated_on>
+        <sys_updated_on>2018-08-29 17:14:57</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
@@ -142,7 +141,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Jamaica Program">af063d54133a57401784b3b12244b005</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

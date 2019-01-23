@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="asmt_metric_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
     <asmt_metric_category action="INSERT_OR_UPDATE">
         <create_stakeholders>false</create_stakeholders>
         <description/>

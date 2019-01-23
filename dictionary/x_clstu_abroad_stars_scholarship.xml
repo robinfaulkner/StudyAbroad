@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="STARS Scholarship" max_length="40" name="x_clstu_abroad_stars_scholarship" type="collection">
         <element label="Address" max_length="100" name="address" type="string"/>
         <element label="Alternate Phone Number" max_length="40" name="alternate_phone_number" type="phone_number_e164"/>
@@ -7,14 +6,14 @@
             <choice/>
         </element>
         <element label="City" max_length="50" name="city" type="string"/>
-        <element label="City and country in which you plan to study " max_length="50" name="city_and_country_in_which_you_plan_to_study" type="string"/>
+        <element label="City and country in which you plan to study" max_length="50" name="city_and_country_in_which_you_plan_to_study" type="string"/>
         <element choice="1" label="Class Standing" max_length="40" name="class_standing" reference="x_clstu_abroad_class_standing" type="reference">
             <choice/>
         </element>
         <element choice="1" label="Class Year" max_length="40" name="class_year" reference="x_clstu_abroad_class_year" type="reference">
             <choice/>
         </element>
-        <element label="Cost of program " max_length="6" name="cost_of_program" type="string"/>
+        <element label="Cost of program" max_length="6" name="cost_of_program" type="string"/>
         <element label="Cumulative GPA" max_length="5" name="cumulative_gpa" type="string"/>
         <element label="Departure date" max_length="40" name="departure_date" type="glide_date"/>
         <element label="Did you receive any additional financial aid other than the HOPE Scholarship" max_length="40" name="did_you_receive_any_additional_financial_aid_other_than_the_hope_scholarship" type="boolean"/>
@@ -37,6 +36,12 @@
         <element label="What requirement is this fulfilling" max_length="100" name="what_requirement_is_this_fulfilling" type="string"/>
         <element label="Zip Code" max_length="10" name="zip_code" type="string"/>
         <index name="index">
+            <element name="class_year"/>
+        </index>
+        <index name="index2">
+            <element name="class_standing"/>
+        </index>
+        <index name="index3">
             <element name="name"/>
         </index>
     </element>

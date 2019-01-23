@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -24,7 +23,7 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>ALL students must be aware that some Financial Aid requires a study abroad program Must Fill the Students&#39; Academic Course Requirements or Course Electives. </p>]]></instructions>
+        <instructions/>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -38,24 +37,22 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>notice_fin_aid</name>
-        <order>600</order>
+        <order>5650</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>&lt;b&gt;Notice about Financial Aid:&lt;/b&gt; &#13;
-&#13;
-</question_text>
+        <question_text>Notice about Financial Aid:</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
-        <show_help_on_load>true</show_help_on_load>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
@@ -63,17 +60,15 @@
         <sys_created_on>2018-07-12 14:13:17</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>339dbffc13d71f801784b3b12244b03a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>&lt;b&gt;Notice about Financial Aid:&lt;/b&gt; &#13;
-&#13;
-</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Notice about Financial Aid:</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_339dbffc13d71f801784b3b12244b03a</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-21 19:03:11</sys_updated_on>
+        <sys_updated_on>2018-08-29 16:51:15</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>
@@ -81,7 +76,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Initial Questions">f930cf5813df9b801784b3b12244b07d</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

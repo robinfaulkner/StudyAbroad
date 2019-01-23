@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="name_of_study_abroad_program_and_sponsoring_university_or_organization" label="Name of study abroad program and sponsoring university or organization" language="en" table="x_clstu_abroad_stars_scholarship">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>name_of_study_abroad_program_and_sponsoring_university_or_organization</element>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="question_choice">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>3</order>
@@ -10,7 +9,7 @@
         <sys_created_on>2018-07-02 16:45:10</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>9da00d39130317801784b3b12244b059</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Refund - International Programs</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -18,9 +17,9 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>question_choice_9da00d39130317801784b3b12244b059</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-02 16:45:10</sys_updated_on>
+        <sys_updated_on>2018-09-05 20:25:29</sys_updated_on>
         <text>Refund - International Programs</text>
-        <value>refund_international_programs</value>
+        <value>Refund - International Programs</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=9da00d39130317801784b3b12244b059"/>
     <fx_price action="INSERT_OR_UPDATE">

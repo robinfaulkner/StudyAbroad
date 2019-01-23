@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_catalog">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Request a Follow-up">10003a28135bdb801784b3b12244b08c</sc_cat_item>
         <sc_catalog display_value="Study Abroad">18703960135e13001784b3b12244b01e</sc_catalog>

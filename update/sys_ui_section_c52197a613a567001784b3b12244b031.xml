@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c52197a613a567001784b3b12244b031" sys_domain="global" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3" view="Emergency_Contacts">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>4521d7a613a567001784b3b12244b08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submission_type</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>c921d7a613a567001784b3b12244b08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_name</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>4d21d7a613a567001784b3b12244b08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number_abroad</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>cd21d7a613a567001784b3b12244b08a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>4121d7a613a567001784b3b12244b08b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>best_way_reached</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>c121d7a613a567001784b3b12244b08b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>program_director_address</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_id>4521d7a613a567001784b3b12244b08b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="812197a613a567001784b3b12244b02e">c52197a613a567001784b3b12244b031</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 17:48:53</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c52197a613a567001784b3b12244b031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_faculty_staff_program_applicaton</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_c52197a613a567001784b3b12244b031</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 17:48:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Emergency Contacts" name="Emergency_Contacts">812197a613a567001784b3b12244b02e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

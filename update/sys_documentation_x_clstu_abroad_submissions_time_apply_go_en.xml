@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="time_apply_go" label="How much time do I have to apply and to plan to go?" language="en" table="x_clstu_abroad_submissions">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>time_apply_go</element>

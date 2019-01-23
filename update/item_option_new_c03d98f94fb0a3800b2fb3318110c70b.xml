@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Business in Hungary &amp; the Czech Republic">2da254354f70a3800b2fb3318110c7f8</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <example_text/>
+        <field>release_and_waiver_of_liability</field>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <include_none>false</include_none>
+        <instructions><![CDATA[<div class="OutlineElement Ltr SCXW219508745" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
+<div class="OutlineElement Ltr SCXW75797815" style="margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; direction: ltr; font-family: &#39;Segoe UI&#39;, &#39;Segoe UI Web&#39;, Arial, Verdana, sans-serif; font-size: 12px;">
+<p style="margin: 0in 0in 7.5pt; text-align: center; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;" align="center"><span style="font-size: 12.0pt;">ASSUMPTION OF RISK, COVENANT NOT TO SUE AND INDEMNIFICATION</span></p>
+<p style="margin: 0in 0in 7.5pt; text-align: center; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;" align="center"><span style="font-size: 12.0pt;">STATE OF GEORGIA</span></p>
+<p style="margin: 0in 0in 7.5pt; text-align: center; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;" align="center"><span style="font-size: 12.0pt;">COUNTY OF CLAYTON</span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;"> </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I, the undersigned, (the “Participant”), am participating in the Clayton State University Study Abroad Program in the country of Hungary and the Czech Republic between the dates of May 10-19, 2019. As such, I agree to assume all risk involved with my participation in this Study Abroad Program.  </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 12.0pt;">RISKS OF STUDY ABROAD:</span></strong><span style="font-size: 12.0pt;"> I acknowledge that the study abroad experience involves risks such as accidents, illness, disease, poor sanitation, inadequate medical care and facilities, terrorism, crime, the hazards of travel, natural disasters, and other hazards including death that arise from a wide variety of events and circumstances which cannot be enumerated. I voluntarily assume all such risk. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">In consideration of the professional and educational enrichment and academic credit that I will derive from this educational, and other valuable consideration the receipt whereof is hereby acknowledged, I do also hereby, for myself, my heirs, executors, administrators, and assigned, waive, release, covenant not to sue and forever discharge the Board of Regents of the University System of Georgia and CLAYTON STATE UNIVERSITY and their members, agents, servants and employees and the individual(s) responsible for, and employed by, the Program and their agents (each of the foregoing being hereinafter referred to as the &#34;University&#34;) of and from any and all manner of action or actions, causes or causes of action, including, but not limited to negligence, suits, debts, accounts, damages, claims and demands of whatsoever in law, in admiralty, or in equity or otherwise, which I have or may acquire by reason of injury, damage or harm to person while participating in said travel and/or study program or study programs, arising out of, or connected with, participation in said travel and/or study program or study programs. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">Further, I agree to defend, indemnify and hold harmless the University from any and all claims, demands, and/or causes of action arising out of my own actions while participating in the Program. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I understand and agree that the University accepts no responsibility if a Program is cancelled before departure or while the program is in progress for reasons beyond the University’s reasonable control including, but not limited to, political unrest or perceived danger to participant safety.  The University reserves the right to cancel or change the Program in any way accordingly, in which event the undersigned agrees to hold the University harmless for any prepaid Program fees.  The University will make a reasonable effort to obtain refunds from service providers such as hotels, airlines, and dormitories of all prepaid Program expenses and, to the extent such refunds are received by the University; they will be refunded to Program participants.  Fees paid will only be refunded to Program participants to the extent they are refunded to the University and assumes no responsibility for the financial losses of Program participants.  </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I understand and acknowledge that the University assumes no responsibility or liability, in whole or in part, for any delays, delayed or changed departure or arrival times, fare changes, dishonors of hotel, airline or vehicle rental reservations, missed carrier connections, sickness, disease, injuries (including death), losses, damages, weather, strikes, acts of God, circumstances beyond the control of the University, force majeure, war, quarantine, civil unrest, public health risks, criminal activity, terrorism, expense, accident, injuries, damage to property, bankruptcies of airlines or other service providers, inconveniences, cessation of operations, mechanical defects, failure or negligence of any nature howsoever caused in connection with any accommodations, restaurant, transportation, or other service or for any substitution of hotels or of common carriers beyond the University&#39;s control, with or without notice, or for any additional expense occasioned by any of the foregoing. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 12.0pt;">INSTITUTIONAL ARRANGEMENTS:</span></strong><span style="font-size: 12.0pt;"> I understand that Clayton State University does not represent or act as an agent for, and cannot control the acts or omissions of, any host institution, host family, transportation carrier, hotel, tour organizer or other provider of goods or services involved in the Program. I understand that the University is not responsible for matters that are beyond its control. I hereby release the University, its officers, employees, and agents from any injury, loss, damage, accident, delay or expense arising out of any such matters.  </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I agree to abide by all deadlines for fee payment, application materials, and health documentation for my Program.  I further acknowledge and accept the schedule for refunds, should I withdraw from the Program, and accept the penalties associated with late withdrawal.  I understand that all withdrawals must be made in writing. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I acknowledge that I have received and read the Refund Policy Form and I agree to maintain accident, health, medical evacuation and repatriation of remains insurance in force and effect for the entire duration of my participation in the Program.  I further certify that, to the best of my knowledge, I am in good health and physically capable of undertaking an intensive program of foreign study; any medical or health-related problems have been explicitly described to the program director in the Physician&#39;s Certification provided by me to the Program Director.  I understand and acknowledge that a condition of eligibility for participation in the University Study Abroad Program for which I have applied is obtaining all vaccinations required for direct travel from the United States to my Program country(ies).   I further acknowledge that the University strongly encourages Program Participants to obtain all vaccinations recommended for travel to the country (ies) to which I will travel as part of my Study Abroad Program experience and that illness due to failure or refusal to do so is my sole responsibility. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I consent to the giving of such medical and/or surgical care as may become necessary for my well being, should the need arise, and I understand that the cost thereof will be my sole responsibility. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I agree that I shall be subject to the Clayton State University Student Code of Conduct, supervision and authority of the faculty in charge and to the standards of conduct stipulated by the faculty in charge.  I further acknowledge that the supervising faculty has the sole authority to make decisions regarding the continued participation of any individual in the Program whose conduct may necessitate disciplinary action.  Any refund of fees shall be in the sole discretion of the University and the University reserves the right to refuse a refund. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I authorize the University to communicate in emergencies with the person(s) provided in my application materials. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><strong><span style="font-size: 12.0pt;">INDEPENDENT ACTIVITY: </span></strong><span style="font-size: 12.0pt;">I understand that Clayton State University is not responsible for any injury or loss I may suffer when I am traveling independently or am otherwise separated or absent from any CSU supervised activities. I assume sole responsibility for my safety should I choose to book my own transportation for any part of the Program.  Further, I understand that I may elect to travel independently at my own expense before or after the Program or during free time within the time of the Program (“Independent Travel”).  I agree to inform a Program supervising faculty member of my Independent Travel plans.  However, I assume all involved risk and understand that the University is not responsible for me or my safety during such Independent Travel.  </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">The University does not guarantee that Program participants will be able to obtain documentation required for any portion of their Program-related travel.  I understand that I am solely responsible for obtaining all documentation necessary for my travel in the Program including, but not limited to, obtaining a passport and any required visas.  I further understand that, in the event my citizenship status requires me to obtain a visa or other documentation prior to reentry into the United States after traveling abroad, that I bear the sole risk and responsibility for obtaining such documentation; further, I agree to hold the University harmless if I am unable to obtain such required documentation and, as a result, am denied reentry into the United States.  </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I realize that baggage is carried or conveyed at my own risk and that baggage insurance is strongly recommended.  The passenger&#39;s contract ticket in use when issued shall constitute the sole contract between the airlines and me. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I attest that I have received and am keeping a duplicate copy of this Release, Covenant Not to Sue and Indemnification and agree to be bound by its terms. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I give the Universities permission to reproduce and use for educational or promotional purposes any and all photographs, videos, movies, or sound recordings taken of me during my participation in the study abroad experience. </span></p>
+<p style="margin: 0in 0in 7.5pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 12.0pt;">I certify that I am at least eighteen (18) years of age, medically and mentally sound, physically fit to engage in the activities described above regarding my chosen study abroad experience, and competent to enter into this agreement. I further certify that no oral promise, agreement, warranty, or representation concerning safety or liability has been made to me.</span></p>
+</div>
+</div>]]></instructions>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <mandatory>true</mandatory>
+        <map_to_field>true</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>assumption_risk</name>
+        <order>8200</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <question_text>I Agree</question_text>
+        <read_roles/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-09-27 14:00:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c03d98f94fb0a3800b2fb3318110c70b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>I Agree</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>item_option_new_c03d98f94fb0a3800b2fb3318110c70b</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-09-27 14:10:12</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>7</type>
+        <ui_page display_value="STAB Agreement">b514e9f54feb5fc09a35afdd0210c791</ui_page>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="delete_multiple" query="documentkey=c03d98f94fb0a3800b2fb3318110c70b"/>
+    <fx_price action="delete_multiple" query="id=c03d98f94fb0a3800b2fb3318110c70b"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>c03d98f94fb0a3800b2fb3318110c70b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-09-27 14:00:08</sys_created_on>
+        <sys_id>803d98f94fb0a3800b2fb3318110c70d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-09-27 14:00:08</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>c03d98f94fb0a3800b2fb3318110c70b</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-09-27 14:00:08</sys_created_on>
+        <sys_id>483d98f94fb0a3800b2fb3318110c70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-09-27 14:00:08</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

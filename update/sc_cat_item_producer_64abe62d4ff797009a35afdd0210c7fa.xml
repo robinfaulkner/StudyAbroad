@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_producer">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -58,6 +57,7 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
+        <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=64abe62d4ff797009a35afdd0210c7fa&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
@@ -143,6 +143,7 @@
         <image_width>464</image_width>
         <size_bytes>92852</size_bytes>
         <size_compressed>89037</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-08-08 13:29:46</sys_created_on>
         <sys_id>33b6766d13b397001784b3b12244b049</sys_id>
@@ -181,6 +182,7 @@
         <image_width>464</image_width>
         <size_bytes>92852</size_bytes>
         <size_compressed>89037</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-08-08 13:34:00</sys_created_on>
         <sys_id>35b7b66d13b397001784b3b12244b015</sys_id>
@@ -219,6 +221,7 @@
         <image_width>314</image_width>
         <size_bytes>17240</size_bytes>
         <size_compressed>16240</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-08-08 13:29:47</sys_created_on>
         <sys_id>4cc6f66d13b397001784b3b12244b05f</sys_id>
@@ -257,6 +260,7 @@
         <image_width>314</image_width>
         <size_bytes>17240</size_bytes>
         <size_compressed>16240</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-08-08 13:34:01</sys_created_on>
         <sys_id>c6b77a6d13b397001784b3b12244b09e</sys_id>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Psychology in Guyana">3ac03ffb13a617401784b3b12244b0fc</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -37,8 +36,8 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>assumption_label</name>
-        <order>250</order>
+        <name>risk_label</name>
+        <order>8999</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>CLAYTON STATE UNIVERSITY STUDY ABROAD PROGRAMS &#13;
@@ -47,7 +46,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -62,16 +61,15 @@
         <sys_created_on>2018-08-13 13:03:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>55806c17133fd3001784b3b12244b045</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>CLAYTON STATE UNIVERSITY STUDY ABROAD PROGRAMS &#13;
-</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>risk_label</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_55806c17133fd3001784b3b12244b045</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-13 13:08:17</sys_updated_on>
+        <sys_updated_on>2018-08-30 15:35:10</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>
@@ -79,7 +77,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Guyana Program">f2c53154133a57401784b3b12244b02d</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

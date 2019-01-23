@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="receive_financial_aid" label="I receive financial aid or scholarships from the government or an organization" language="en" table="x_clstu_abroad_submissions">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>receive_financial_aid</element>

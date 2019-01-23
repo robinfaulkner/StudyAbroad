@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="History in Italy">73b0873813da53001784b3b12244b052</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -24,7 +23,7 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <include_none>false</include_none>
-        <instructions/>
+        <instructions><![CDATA[<p><span>I understand that this trip contains moderate, and occasionally long, walks through historic sites in Rome, Florence, Lucca, and Venice. I accept that I need to be healthy and fit enough to stay on my feet for a few hours at the time. I understand that our group meals </span><span>will be served</span><span> in Italian restaurants, and while our restaurants are usually successful in accommodating dietary restrictions and wishes, they cannot be guaranteed.</span><span> </span></p>]]></instructions>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -33,12 +32,12 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>additional_conditions</name>
-        <order>100</order>
+        <order>8000</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>I Agree</question_text>
@@ -46,14 +45,14 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help>true</show_help>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-06-15 15:28:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e7fbc95413b657401784b3b12244b0d6</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>I Agree</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,7 +68,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_e7fbc95413b657401784b3b12244b0d6</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-15 18:56:53</sys_updated_on>
+        <sys_updated_on>2018-09-10 19:53:49</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
@@ -77,7 +76,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Italy Program II">3184804c130c67001784b3b12244b060</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

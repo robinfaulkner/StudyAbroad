@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="discussed_academic_advisor" label="I have discussed a study abroad program with my academic advisor." language="en" table="x_clstu_abroad_submissions">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>discussed_academic_advisor</element>

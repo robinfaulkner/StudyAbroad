@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="have_you_visited_the_country" label="Have you visited the country" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>have_you_visited_the_country</element>

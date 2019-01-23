@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Pay" section_id="4b9ce77c135e53001784b3b12244b073" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="traveler_profile_builder">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>personal_savings</element>

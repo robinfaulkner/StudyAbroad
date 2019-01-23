@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Study Abroad Program" section_id="994e9622132567001784b3b12244b026" sys_domain="global" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>program_term</element>
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>12ce5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country_proposing</element>
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>92ce5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country_proposing_secondary</element>
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>16ce5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>are_you_familiar_country</element>
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>96ce5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>do_you_have_a_passport</element>
+            <position>4</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ace5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>passport_valid_for_at_least_a_year</element>
+            <position>5</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ace5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>how_often_take_place</element>
+            <position>6</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ece5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>how_did_you_learn_about_the_study_abroad_opportunities_for_program_directors</element>
+            <position>7</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ece5e22132567001784b3b12244b096</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>12ce5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>have_you_visited_the_country</element>
+            <position>9</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>92ce5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>have_you_previously_conducted_a_study_abroad_program</element>
+            <position>10</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>16ce5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>study_abroad_program_at_clayton_state_university</element>
+            <position>11</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>96ce5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assisted_or_been_on_a_study_abroad_program</element>
+            <position>12</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ace5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>undergraduate_graduate_students</element>
+            <position>13</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ace5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>more_than_one_instructor</element>
+            <position>14</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ece5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>co_led_program_director_info</element>
+            <position>15</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ece5e22132567001784b3b12244b097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submitting_a_study_abroad_site_visit_request</element>
+            <position>16</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>12ce5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>only_the_program_director_s_and_clayton_state_credit_seeking_students_are</element>
+            <position>17</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>92ce5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study</element>
+            <position>18</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>16ce5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>transient_students_are_ill_advised_to_apply_for_clayton_state_study_abroad_p</element>
+            <position>19</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>96ce5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>the_study_abroad_office_will_assist_with_program_recruitment</element>
+            <position>20</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ace5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>students_make_all_necessary_program_and_tuition_payments_to_the_bursar_offic</element>
+            <position>21</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ace5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enoll_all_of_the_students_on_to_the_course_roster</element>
+            <position>22</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>1ece5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>program_directors_should_be_interviewing_program_applicants</element>
+            <position>23</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>9ece5e22132567001784b3b12244b098</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>study_abroad_student_eligibility_requirements_include_the_following</element>
+            <position>24</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>12ce5e22132567001784b3b12244b099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>the_study_abroad_approval_process_includes_the_following</element>
+            <position>25</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:08:53</sys_created_on>
+            <sys_id>92ce5e22132567001784b3b12244b099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:08:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Study Abroad Program</caption>
+            <header>false</header>
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:06:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>994e9622132567001784b3b12244b026</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Study Abroad Program</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_section_994e9622132567001784b3b12244b026</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:06:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

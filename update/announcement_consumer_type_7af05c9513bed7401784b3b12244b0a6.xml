@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="announcement_consumer_type">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement_consumer_type">
     <announcement_consumer_type action="INSERT_OR_UPDATE">
         <name>Study Abroad</name>
         <sys_class_name>announcement_consumer_type</sys_class_name>

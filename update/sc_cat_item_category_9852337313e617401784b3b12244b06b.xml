@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="History in Italy">73b0873813da53001784b3b12244b052</sc_cat_item>
         <sc_category display_value="History">1560fbbb13a617401784b3b12244b01d</sc_category>

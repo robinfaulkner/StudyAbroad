@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <attributes/>
         <cat_item/>
         <category/>
@@ -41,7 +40,7 @@
         <order>3550</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>STUDENTS MUST BE IN GOOD ACADEMIC STANDING THE SEMESTER PRIOR TO DEPARTURE.  CLAYTON STATE REQUIRES A MINIMUM GPA OF 2.0 FOR UNDERGRADUATES TO BE IN GOOD ACADEMIC STANDING.  INDIVIDUAL STUDY ABROAD PROGRAMS, HOWEVER, MAY REQUIRE A HIGHER GPA.  I understand that, in order to participate, I must be in good academic standing the semester prior to program departure and have met all course prerequisites.  I understand that my standing may be checked.  If I am not in good academic standing the semester prior to program departure or have not met the course prerequisites, I will not receive credit for the program.</question_text>
+        <question_text>Good Academic Standing</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -61,15 +60,15 @@
         <sys_created_on>2018-08-21 14:31:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>de81c6f14fc063009a35afdd0210c73b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>STUDENTS MUST BE IN GOOD ACADEMIC STANDING THE SEMESTER PRIOR TO DEPARTURE.  CLAYTON STATE REQUIRES A MINIMUM GPA OF 2.0 FOR UNDERGRADUATES TO BE IN GOOD ACADEMIC STANDING.  INDIVIDUAL STUDY ABROAD PROGRAMS, HOWEVER, MAY REQUIRE A HIGHER GPA.  I understan</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Good Academic Standing</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_de81c6f14fc063009a35afdd0210c73b</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-21 19:07:27</sys_updated_on>
+        <sys_updated_on>2018-09-05 17:17:56</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>

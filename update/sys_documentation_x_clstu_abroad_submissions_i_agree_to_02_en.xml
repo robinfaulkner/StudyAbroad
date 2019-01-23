@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="i_agree_to_02" label="I agree to discuss the independent travel with the program director and to keep " language="en" table="x_clstu_abroad_submissions">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>i_agree_to_02</element>

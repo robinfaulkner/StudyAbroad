@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_producer">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -43,7 +42,7 @@
 <p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
 <p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">Requests for refunds and withdrawal from the program must be made in writing to the Office of International Programs.  If program withdrawal is necessary for extenuating circumstances (Hardship Withdrawal), refunds will be considered on a case by case basis. All students must register and pay in full for the program fees and course tuition by the final payment deadline or they will be dropped from the program. <strong>Students will receive a f</strong></span><strong><span style="font-family: &#39;Arial&#39;,sans-serif; letter-spacing: -.15pt;">ull refund if the program is cancelled due to lack of participants.  <em>Note that </em></span></strong><strong><em><span style="font-family: &#39;Arial&#39;,sans-serif;">Study Abroad Refunds may automatically apply towards any outstanding tuition balance and/or fees on your student account.</span></em></strong></p>
 <p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"> </span></p>
-<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">A <strong>$950.00 deposit</strong> must be received by the Bursar’s Office in the Student Center Building by <strong>01/28/2019 </strong>in order to confirm registration<strong>.  </strong>Deposits will be credited toward program costs.  See the paragraphs above for additional details about Payment Schedule and Refund Policy.  Applications will be accepted for this program until February 10, 2018. This course is limited to <strong>10 </strong>participants.</span></p>]]></description>
+<p style="text-align: justify; margin: 0in 0in 0.0001pt; font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;">A <strong>$1,228.00 deposit</strong> must be received by the Bursar’s Office in the Student Center Building by <strong>01/28/2019 </strong>in order to confirm registration<strong>.  </strong>Deposits will be credited toward program costs.  See the paragraphs above for additional details about Payment Schedule and Refund Policy.  Applications will be accepted for this program until February 10, 2018. This course is limited to <strong>10 </strong>participants.</span></p>]]></description>
         <entitlement_script/>
         <group/>
         <hide_sp>false</hide_sp>
@@ -68,6 +67,7 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
+        <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=3ac03ffb13a617401784b3b12244b0fc&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
@@ -86,15 +86,15 @@
         <sys_created_on>2018-06-14 14:12:20</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3ac03ffb13a617401784b3b12244b0fc</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Psychology in Guyana</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>sc_cat_item_producer_3ac03ffb13a617401784b3b12244b0fc</sys_update_name>
-        <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-30 18:14:46</sys_updated_on>
+        <sys_updated_by>scokuslu</sys_updated_by>
+        <sys_updated_on>2018-08-23 17:27:19</sys_updated_on>
         <table_name>x_clstu_abroad_submissions</table_name>
         <template/>
         <type>item</type>

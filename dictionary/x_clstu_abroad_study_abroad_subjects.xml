@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Study Abroad Program" max_length="40" name="x_clstu_abroad_study_abroad_subjects" type="collection">
         <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Agency Account Number" max_length="40" name="agency_account" type="string"/>
         <element label="Evaluation Notification" max_length="40" name="evaluation_date" type="glide_date"/>
         <element label="Health Clearance Due" max_length="40" name="health_clearance_due" type="glide_date"/>
         <element label="Health Clearance Notification" max_length="40" name="health_clearance_notification" type="glide_date"/>
         <element label="Orientation Notification" max_length="40" name="orientation_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Orientation Scheduled Date" max_length="40" name="orientation_scheduled" type="glide_date"/>
         <element label="Passport Deadline" max_length="40" name="passport_deadline" type="glide_date"/>
         <element label="Passport Notification" max_length="40" name="passport_notification" type="glide_date"/>
         <element label="Payments Notification" max_length="40" name="payments_notification" type="glide_date"/>
@@ -14,14 +15,18 @@
         <element label="Tuition Notification" max_length="40" name="tuition_notification" type="glide_date"/>
         <element label="Tuition Payment Deadline" max_length="40" name="tuition_payment_deadline" type="glide_date"/>
         <element label="Date" max_length="40" name="u_date_1" type="glide_date"/>
+        <element label="First Payment" max_length="40" name="u_first_payment" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Program Guide URL" max_length="1024" name="u_guide_url" type="url"/>
+        <element label="Second Payment" max_length="40" name="u_second_payment" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Term" max_length="40" name="u_term" type="string">
             <choice>
-                <element label="Spring Break 2019" sequence="0" value="spring_break_2019"/>
-                <element label="Maymester 2019" sequence="1" value="maymester_2019"/>
-                <element label="Summer 2019" sequence="2" value="summer_2019"/>
-                <element label="Academic Year 2018-2019 or 2019-2020" sequence="3" value="academic_year_2018_2019_2020"/>
+                <element inactive_on_update="false" label="Spring Break 2019" sequence="0" value="spring_break_2019"/>
+                <element inactive_on_update="false" label="Maymester 2019" sequence="1" value="maymester_2019"/>
+                <element inactive_on_update="false" label="Summer 2019" sequence="2" value="summer_2019"/>
+                <element inactive_on_update="false" label="Academic Year 2018-2019 or 2019-2020" sequence="3" value="academic_year_2018_2019_2020"/>
             </choice>
         </element>
+        <element label="Third Payment" max_length="40" name="u_third_payment" type="glide_date"/>
         <index name="index">
             <element name="program_director"/>
         </index>

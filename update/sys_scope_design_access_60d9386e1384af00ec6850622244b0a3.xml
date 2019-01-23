@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="INSERT_OR_UPDATE">
+        <source_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-08-23 17:14:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>60d9386e1384af00ec6850622244b0a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>00bfa9e413da13001784b3b12244b00f</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sys_scope_design_access_60d9386e1384af00ec6850622244b0a3</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-08-23 17:14:05</sys_updated_on>
+        <target_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</target_package>
+    </sys_scope_design_access>
+</record_update>

@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_producer">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <availability>on_desktop</availability>
+        <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category/>
+        <category display_value="Program Proposal Application">9281beae132567001784b3b12244b011</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -25,7 +24,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Study Abroad Program Proposal</name>
+        <name>Program Proposal Application</name>
         <no_cart>false</no_cart>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
@@ -36,13 +35,14 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
+        <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5c33a90813139b801784b3b12244b051&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <redirect_url>generated_record</redirect_url>
         <roles/>
-        <sc_catalogs>18703960135e13001784b3b12244b01e</sc_catalogs>
+        <sc_catalogs>827f48d41308a7001784b3b12244b01f</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script/>
@@ -54,15 +54,15 @@
         <sys_created_on>2018-07-09 19:02:26</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5c33a90813139b801784b3b12244b051</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Study Abroad Program Proposal</sys_name>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Program Proposal Application</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>sc_cat_item_producer_5c33a90813139b801784b3b12244b051</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-10 20:26:37</sys_updated_on>
+        <sys_updated_on>2018-11-27 16:25:45</sys_updated_on>
         <table_name>x_clstu_abroad_faculty_staff_program_applicaton</table_name>
         <template/>
         <type>item</type>

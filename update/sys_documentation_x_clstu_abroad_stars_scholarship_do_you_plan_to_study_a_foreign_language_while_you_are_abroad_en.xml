@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="do_you_plan_to_study_a_foreign_language_while_you_are_abroad" label="Do you plan to study a foreign language while you are abroad" language="en" table="x_clstu_abroad_stars_scholarship">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>do_you_plan_to_study_a_foreign_language_while_you_are_abroad</element>

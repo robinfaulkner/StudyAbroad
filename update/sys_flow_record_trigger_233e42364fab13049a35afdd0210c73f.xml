@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_flow_record_trigger">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition table="x_clstu_abroad_submissions">submission_type=refund<item endquery="false" field="submission_type" goto="false" newquery="false" operator="=" or="false" value="refund"/>

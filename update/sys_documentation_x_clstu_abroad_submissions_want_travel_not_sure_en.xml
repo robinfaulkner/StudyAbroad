@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="want_travel_not_sure" label="I'm not sure" language="en" table="x_clstu_abroad_submissions">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>want_travel_not_sure</element>

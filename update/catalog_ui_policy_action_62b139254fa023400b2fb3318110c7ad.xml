@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Health Clearance Form Approval">5a7b15a14f235fc09a35afdd0210c7cc</catalog_item>
+        <catalog_variable>IO:ac9031e14fa023400b2fb3318110c722</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-09-14 15:15:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>62b139254fa023400b2fb3318110c7ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_approved_by</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_62b139254fa023400b2fb3318110c7ad</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-09-14 15:15:24</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Approved by Read Only">d4b175254fa023400b2fb3318110c7c8</ui_policy>
+        <variable>u_approved_by</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

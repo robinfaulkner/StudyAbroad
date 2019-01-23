@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Application Approval ">1018301513321b401784b3b12244b0b1</cat_item>
+        <cat_item display_value="Program Director Contract Approval ">1018301513321b401784b3b12244b0b1</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>approval_status</choice_field>
+        <choice_table>x_clstu_abroad_study_abroad_approval</choice_table>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>Requested</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -23,17 +22,17 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
         <lookup_price/>
-        <lookup_table/>
+        <lookup_table>x_clstu_abroad_study_abroad_approval</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value/>
+        <lookup_value>approval_status</lookup_value>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-06-18 18:36:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f1b3959913721b401784b3b12244b002</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Application Approval</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,13 +68,13 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_f1b3959913721b401784b3b12244b002</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-06-18 18:50:45</sys_updated_on>
+        <sys_updated_on>2018-08-24 18:18:11</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <variable_name/>
         <variable_set/>
         <variable_width/>

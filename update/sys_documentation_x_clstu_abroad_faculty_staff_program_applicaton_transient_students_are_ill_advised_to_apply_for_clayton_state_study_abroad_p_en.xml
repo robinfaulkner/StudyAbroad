@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="transient_students_are_ill_advised_to_apply_for_clayton_state_study_abroad_p" label="Transient students are ill advised to apply for Clayton State study abroad p" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>transient_students_are_ill_advised_to_apply_for_clayton_state_study_abroad_p</element>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_catalog">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Passport Form Approval">b0625d9f13bfd3001784b3b12244b062</sc_cat_item>
         <sc_catalog display_value="Study Abroad Faculty">827f48d41308a7001784b3b12244b01f</sc_catalog>

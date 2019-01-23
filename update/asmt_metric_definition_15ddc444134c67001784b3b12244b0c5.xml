@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="asmt_metric_definition">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition">
     <asmt_metric_definition action="INSERT_OR_UPDATE">
         <display>A</display>
         <metric display_value="New Scale">91ddc444134c67001784b3b12244b0c1</metric>

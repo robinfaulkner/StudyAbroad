@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="are_you_familiar_country" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -65,7 +64,7 @@
             <sys_created_by>rfaulkner1</sys_created_by>
             <sys_created_on>2018-07-09 17:30:12</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>911e850813df5b801784b3b12244b0f4</sys_id>
+            <sys_id>c55363ce13c02f00ec6850622244b0a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>are_you_familiar_country</sys_name>
             <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>

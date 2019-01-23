@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="more_than_one_instructor" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <active>true</active>
         <array>false</array>
@@ -15,7 +14,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Will this program have more than one instructor assisting with the study abroad </column_label>
+        <column_label>Will this program have more than one instructor assisting with the study abroad</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -55,16 +54,16 @@
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-07-09 17:47:48</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>75f1190c13df5b801784b3b12244b006</sys_id>
+        <sys_id>9813ef4a13c02f00ec6850622244b04a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Will this program have more than one instructor assisting with the study abroad </sys_name>
+        <sys_name>Will this program have more than one instructor assisting with the study abroad</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>sys_dictionary_x_clstu_abroad_faculty_staff_program_applicaton_more_than_one_instructor</sys_update_name>
-        <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-09 17:47:48</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-08-22 16:16:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

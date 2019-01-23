@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="submitting_a_study_abroad_site_visit_request" label="Are you in the process of submitting a Study Abroad Site Visit Request" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>submitting_a_study_abroad_site_visit_request</element>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -37,8 +36,8 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>formatter9</name>
-        <order>275</order>
+        <name>formatter</name>
+        <order>250</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text/>
@@ -46,7 +45,7 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -61,15 +60,15 @@
         <sys_created_on>2018-07-12 14:08:35</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>91bc3bfc13d71f801784b3b12244b0d8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>formatter9</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>formatter</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_91bc3bfc13d71f801784b3b12244b0d8</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-12 14:09:39</sys_updated_on>
+        <sys_updated_on>2018-08-30 21:24:11</sys_updated_on>
         <table/>
         <tooltip/>
         <type>24</type>
@@ -77,7 +76,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Initial Questions">f930cf5813df9b801784b3b12244b07d</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

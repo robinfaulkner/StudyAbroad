@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Study Abroad Refund Approval">89a04d75130317801784b3b12244b08a</sc_cat_item>
+        <sc_cat_item display_value="Refund Request Approval">89a04d75130317801784b3b12244b08a</sc_cat_item>
         <sc_category display_value="STAB Approval">775b55614f235fc09a35afdd0210c7f5</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>rfaulkner1</sys_created_by>

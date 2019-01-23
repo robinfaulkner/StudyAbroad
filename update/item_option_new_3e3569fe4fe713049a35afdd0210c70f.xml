@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -38,15 +37,15 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>payment_label</name>
-        <order>450</order>
+        <order>5275</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Payment Process for Study Abroad.  Students will make all necessary payments for the program and tuition to the Bursar Office in Edgewater Hall.  Students must make the first payment in person by visiting the Bursar Office window by turning in the Bursar Application for Study Abroad Payment Form.  This form along with your first payment will enroll the student into the study abroad payment plan for the study abroad program.  After students have made the first payment at the Bursar Office, students may begin making payments online by following the instructions listed in your study abroad application portal.    </question_text>
+        <question_text>Payment Process for Study Abroad</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -61,15 +60,15 @@
         <sys_created_on>2018-07-30 18:30:21</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3e3569fe4fe713049a35afdd0210c70f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Payment Process for Study Abroad.  Students will make all necessary payments for the program and tuition to the Bursar Office in Edgewater Hall.  Students must make the first payment in person by visiting the Bursar Office window by turning in the Bursar </sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Payment Process for Study Abroad</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_3e3569fe4fe713049a35afdd0210c70f</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-14 19:12:28</sys_updated_on>
+        <sys_updated_on>2018-08-29 16:34:47</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>
@@ -77,7 +76,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Final Agreements">cc7411764fe713049a35afdd0210c7fb</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

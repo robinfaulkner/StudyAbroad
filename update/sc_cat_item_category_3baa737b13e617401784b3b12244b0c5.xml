@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Teacher Education in France ">0a61373313e617401784b3b12244b0df</sc_cat_item>
         <sc_category display_value="Education">0e5422434fda5b009a35afdd0210c7f5</sc_category>

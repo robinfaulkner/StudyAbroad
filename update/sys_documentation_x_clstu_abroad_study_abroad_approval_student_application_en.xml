@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="student_application" label="Student Application " language="en" table="x_clstu_abroad_study_abroad_approval">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>student_application</element>

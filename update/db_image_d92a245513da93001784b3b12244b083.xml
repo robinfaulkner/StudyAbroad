@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="db_image">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
     <db_image action="INSERT_OR_UPDATE">
         <active>true</active>
         <category>Service Portal</category>
@@ -36,6 +35,7 @@
         <image_width>1920</image_width>
         <size_bytes>1175685</size_bytes>
         <size_compressed>1167511</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-05-24 19:03:08</sys_created_on>
         <sys_id>c23a645513da93001784b3b12244b03e</sys_id>

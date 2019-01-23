@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_carousel_slide">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide">
     <sp_carousel_slide action="INSERT_OR_UPDATE">
         <background/>
         <carousel/>
@@ -32,6 +31,7 @@
         <image_width>1024</image_width>
         <size_bytes>177025</size_bytes>
         <size_compressed>175937</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-05-24 19:53:01</sys_created_on>
         <sys_id>fca5f45d13da93001784b3b12244b033</sys_id>

@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
-        <attributes/>
-        <cat_item/>
+        <attributes>ref_auto_completer=AJAXTableCompleter,ref_ac_columns=class_year,ref_ac_order_by=u_order</attributes>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>class_year</choice_field>
+        <choice_table>x_clstu_abroad_class_year</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -19,7 +18,7 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <example_text/>
-        <field/>
+        <field>class_year</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text>&lt;b&gt;Note: &lt;/b&gt;If you are currently a senior student, senior students will have limited options or none at all in regards to study abroad opportunities as the dates may conflict with your graduation deadlines.  &lt;br/&gt;&#13;
@@ -34,11 +33,11 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <mandatory>true</mandatory>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>what_year</name>
+        <name>class_year</name>
         <order>200</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -47,8 +46,8 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
-        <reference/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
+        <reference>x_clstu_abroad_class_year</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
@@ -62,7 +61,7 @@
         <sys_created_on>2018-07-12 13:45:15</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b03773f813d71f801784b3b12244b008</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>What year are you currently in?  </sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -70,15 +69,15 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_b03773f813d71f801784b3b12244b008</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-12 14:11:08</sys_updated_on>
+        <sys_updated_on>2018-08-27 16:44:03</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>3</type>
+        <type>8</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Initial Questions">f930cf5813df9b801784b3b12244b07d</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

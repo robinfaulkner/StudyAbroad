@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
         <cat_item display_value="STARS Scholarship Application">9afc34654faf1fc09a35afdd0210c7d4</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>u_us_states</choice_field>
+        <choice_table>u_us_states</choice_table>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>Georgia</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -23,7 +22,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>true</include_none>
+        <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -47,7 +46,7 @@
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table>x_clstu_abroad_stars_scholarship</record_producer_table>
-        <reference/>
+        <reference>u_us_states</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-07-26 18:22:04</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>76fcf4a94faf1fc09a35afdd0210c7af</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>State</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,10 +68,10 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_76fcf4a94faf1fc09a35afdd0210c7af</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-26 18:22:04</sys_updated_on>
+        <sys_updated_on>2018-08-23 15:13:36</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>8</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-08-13 17:25:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>45bcd11713ffd3001784b3b12244b084</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Study Abroad Program</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,7 +68,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_45bcd11713ffd3001784b3b12244b084</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-13 20:18:32</sys_updated_on>
+        <sys_updated_on>2018-08-30 15:14:35</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
@@ -82,7 +81,7 @@
         <visibility>1</visibility>
         <visible_bundle>false</visible_bundle>
         <visible_guide>false</visible_guide>
-        <visible_standalone>true</visible_standalone>
+        <visible_standalone>false</visible_standalone>
         <visible_summary>false</visible_summary>
         <write_roles/>
     </item_option_new>

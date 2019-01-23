@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_rel_widget_clone">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rel_widget_clone">
     <sp_rel_widget_clone action="INSERT_OR_UPDATE">
         <child display_value="Study Abroad Footer">254d623e4f9e1b009a35afdd0210c7f5</child>
         <cloned>2018-05-29 20:26:37</cloned>

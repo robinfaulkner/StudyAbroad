@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Class Standing" max_length="40" name="x_clstu_abroad_class_standing" type="collection">
         <element label="Description" max_length="500" name="description" type="string"/>
         <element display="true" label="Standing" max_length="50" name="good_standing" type="string"/>

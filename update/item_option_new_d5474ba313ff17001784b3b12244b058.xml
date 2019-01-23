@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -38,17 +37,15 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>additional_label</name>
-        <order>50</order>
+        <order>5075</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>I understand that this course involves studying and staying at various locations throughout Costa Rica.  Will will be staying at both research stations and hotels.  Facilities are more than adequate, but basic and not resort style.  Dietary restrictions are taken into consideration, but cannot be guaranteed (please discuss with the program director BEFORE applying). &#13;
-&#13;
-I understand that this course involves daily outdoor activities and my physical condition needs to be such so that I can tolerate moderate hiking and walking.</question_text>
+        <question_text>Costa Rica Course Conditions</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
@@ -63,15 +60,15 @@ I understand that this course involves daily outdoor activities and my physical 
         <sys_created_on>2018-08-14 19:50:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d5474ba313ff17001784b3b12244b058</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>I understand that this course involves studying and staying at various locations throughout Costa Rica.  Will will be staying at both research stations and hotels.  Facilities are more than adequate, but basic and not resort style.  Dietary restrictions a</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Costa Rica Course Conditions</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_d5474ba313ff17001784b3b12244b058</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-14 19:50:16</sys_updated_on>
+        <sys_updated_on>2018-08-29 16:45:38</sys_updated_on>
         <table/>
         <tooltip/>
         <type>11</type>
@@ -79,7 +76,7 @@ I understand that this course involves daily outdoor activities and my physical 
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Costa Rica Program">98267114133a57401784b3b12244b01c</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

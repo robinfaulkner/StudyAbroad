@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_producer">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <availability>on_desktop</availability>
+        <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Orientation">8fe41ea44f0caf009a35afdd0210c75f</category>
+        <category display_value="Student Orientation">8fe41ea44f0caf009a35afdd0210c75f</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -39,6 +38,7 @@
         <order>0</order>
         <ordered_item_link/>
         <picture/>
+        <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9fe3de644f0caf009a35afdd0210c728&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <recurring_frequency/>
@@ -57,7 +57,7 @@
         <sys_created_on>2018-08-17 18:40:36</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>9fe3de644f0caf009a35afdd0210c728</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Spring Orientation Registration</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -65,7 +65,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>sc_cat_item_producer_9fe3de644f0caf009a35afdd0210c728</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-20 14:33:17</sys_updated_on>
+        <sys_updated_on>2018-09-06 14:04:59</sys_updated_on>
         <table_name>x_clstu_abroad_submissions</table_name>
         <template/>
         <type>item</type>

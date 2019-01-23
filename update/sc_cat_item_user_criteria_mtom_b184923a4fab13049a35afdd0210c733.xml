@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_user_criteria_mtom">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
     <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Study Abroad Refund Approval">89a04d75130317801784b3b12244b08a</sc_cat_item>
+        <sc_cat_item display_value="Refund Request Approval">89a04d75130317801784b3b12244b08a</sc_cat_item>
         <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-07-30 21:56:59</sys_created_on>
@@ -16,6 +15,6 @@
         <sys_update_name>sc_cat_item_user_criteria_mtom_b184923a4fab13049a35afdd0210c733</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
         <sys_updated_on>2018-07-30 21:56:59</sys_updated_on>
-        <user_criteria display_value="STAB Program Directors">0954563a4fab13049a35afdd0210c769</user_criteria>
+        <user_criteria display_value="STAB Program View">0954563a4fab13049a35afdd0210c769</user_criteria>
     </sc_cat_item_user_criteria_mtom>
 </record_update>

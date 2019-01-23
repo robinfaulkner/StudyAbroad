@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="may_we_quote_you_from_your_essay" label="May we quote you from your essay" language="en" table="x_clstu_abroad_stars_scholarship">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>may_we_quote_you_from_your_essay</element>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item/>
+        <cat_item display_value="Biology in Costa Rica">0c0ce2ba4f9e1b009a35afdd0210c7f9</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -24,7 +23,12 @@
         <help_tag>More information</help_tag>
         <help_text/>
         <include_none>false</include_none>
-        <instructions/>
+        <instructions><![CDATA[<div class="OutlineElement Ltr SCXW3304015" style="font-family: &#39;Segoe UI&#39;, Tahoma, sans-serif; font-size: 12px; direction: ltr;">
+<p class="Paragraph SCXW3304015" style="vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify; margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px;"><span class="TextRun SCXW3304015" style="font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19.425px;"><span class="NormalTextRun SCXW3304015" style="background-color: inherit;">I understand that this course involves studying and staying at various locations throughout Costa Rica.  Will </span></span><span class="TextRun SCXW3304015" style="font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19.425px;"><span class="SpellingError SCXW3304015" style="background-color: inherit;">will</span></span><span class="TextRun SCXW3304015" style="font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19.425px;"><span class="NormalTextRun SCXW3304015" style="background-color: inherit;"> be staying at both research stations and hotels.  Facilities are more than adequate, but basic and not resort style.  Dietary restrictions are taken into consideration, but cannot be guaranteed (please discuss with the program director BEFORE applying).  </span></span><span class="EOP SCXW3304015" style="font-size: 11pt; line-height: 19.425px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
+</div>
+<div class="OutlineElement Ltr SCXW3304015" style="font-family: &#39;Segoe UI&#39;, Tahoma, sans-serif; font-size: 12px; direction: ltr;">
+<p class="Paragraph SCXW3304015" style="vertical-align: baseline; background-color: transparent; color: windowtext; text-align: justify; margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px;"><span class="TextRun SCXW3304015" style="font-size: 11pt; font-family: Arial, Arial_MSFontService, sans-serif; line-height: 19.425px;"><span class="NormalTextRun SCXW3304015" style="background-color: inherit;">I understand that this course involves daily outdoor activities and my physical condition needs to be such so that I can tolerate moderate hiking and walking.  </span></span><span class="EOP SCXW3304015" style="font-size: 11pt; line-height: 19.425px; font-family: Arial, Arial_MSFontService, sans-serif;"> </span></p>
+</div>]]></instructions>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
@@ -33,12 +37,12 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>additional_conditions</name>
-        <order>100</order>
+        <order>5100</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>I Agree</question_text>
@@ -46,14 +50,14 @@
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table/>
+        <record_producer_table>x_clstu_abroad_submissions</record_producer_table>
         <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>false</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help>true</show_help>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
@@ -61,7 +65,7 @@
         <sys_created_on>2018-06-15 18:33:38</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d0763194133a57401784b3b12244b076</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>I Agree</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,7 +73,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_d0763194133a57401784b3b12244b076</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-14 19:57:51</sys_updated_on>
+        <sys_updated_on>2018-08-29 15:49:01</sys_updated_on>
         <table/>
         <tooltip/>
         <type>7</type>
@@ -77,7 +81,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <variable_name/>
-        <variable_set display_value="Additional Conditions Specific to the Costa Rica Program">98267114133a57401784b3b12244b01c</variable_set>
+        <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

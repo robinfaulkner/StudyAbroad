@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Passport">40ad032613a567001784b3b12244b0b8</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><em>Upload a color copy of your Passport to this portal.  See details below on passports.    </em></p>
+<p> </p>
+<p>Passports are an official document issued by the government, certifying the holder’s identity and citizenship and entitling them to travel under its protection and from foreign countries. This document must be turned in as soon as possible in order to organize your airfare and travel abroad. If you already have a passport, please check your expiration date <strong><em><u>immediately</u></em></strong> to ensure it will be valid for the entire time you are abroad <strong><em>plus an additional six months from your scheduled return date</em></strong>. You must have a valid passport to exit and enter the country!  <strong><em>If the expiration date expires before your return, you must renew your passport as soon as possible!</em></strong></p>
+<p><img src="sys_attachment.do?sys_id&#61;35b7b66d13b397001784b3b12244b015" width="234" height="354" /></p>
+<p>For more information on how to apply for a passport, please visit: <u><a href="http://travel.state.gov/content/passports/english/passports/" rel="nofollow">http://travel.state.gov/content/passports/english/passports/new.html</a> </u></p>
+<p><strong>Passport Requirements for Study Abroad:</strong></p>
+<p>The Study Abroad Office ONLY requires a copy of the information photo page (see image to the left). This page includes your photo, full name, date of birth, passport expiration, passport number, etc. The photo on the left is a visual representation of what we are asking for. Passport copies can be in color (preferred) or black and white as long as they are legible. </p>
+<p><strong>We will not accept Passport Cards.</strong></p>
+<p>It is important that we can clearly read all of this information as it’s required when purchasing your airfare. Passports submitted in which the information is illegible are subject to delaying program purchases.</p>
+<p>Scan this document and upload it to the application portal for the Study Abroad Office and your Program Director.  Download a scanner app, take a photo with your phone (but please be careful with the glare from the flash), or utilize your campus libraries free scanner.</p>
+<p>Note if you are applying for a passport for the first time or renewing it, the process can take three to four months to receive a new passport. The process may require you to schedule an appointment a month in advance for any special circumstances. <strong>Start the process now </strong>in the event that something happens and delays your application process. Applications can be obtained from the State Department website (<u>www.travel.state.gov</u>) or at a local U.S. Post Office.  This document can also be completed online, printed, and sent to the Passport Agency.</p>
+<p><strong><u>PASSPORT PHOTOS</u></strong></p>
+<p>There are multiple locations where you can acquire passport photos including Walgreens, CVS, Wal-Mart, etc. Photos that do not comply with Passport Agency rules <strong><em>will be denied</em></strong> and will delay the passport process.</p>
+<p><img src="sys_attachment.do?sys_id&#61;c6b77a6d13b397001784b3b12244b09e" width="164" height="170" /></p>
+<p><strong>Things to remember about the passport photos:</strong></p>
+<ul style="list-style-position: inside;"><li style="list-style: none;">
+<ul style="list-style-position: inside;"><li>When purchasing your passport photos you will receive two photos in which the passport agency will keep one, so you will need to have additional photos made if you require more.</li><li>Passport photos should be 2in x 2in, frontal from the shoulders up, blank background, in color, on photo paper (see image to the left).</li><li>The two photos you send need to match each other. </li></ul>
+</li></ul>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Submit Your Passport</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=219d07a213a567001784b3b12244b070&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>827f48d41308a7001784b3b12244b01f</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Upload a color copy of your Passport to this portal.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-06 17:33:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>219d07a213a567001784b3b12244b070</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Submit Your Passport</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_219d07a213a567001784b3b12244b070</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-11-26 18:53:58</sys_updated_on>
+        <table_name>x_clstu_abroad_faculty_staff_program_applicaton</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=219d07a213a567001784b3b12244b070"/>
+    <fx_price action="delete_multiple" query="id=219d07a213a567001784b3b12244b070"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>219d07a213a567001784b3b12244b070</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-06 17:33:21</sys_created_on>
+        <sys_id>259d07a213a567001784b3b12244b071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-11-06 17:33:21</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>219d07a213a567001784b3b12244b070</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-06 17:33:21</sys_created_on>
+        <sys_id>6d9d07a213a567001784b3b12244b071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-11-06 17:33:21</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

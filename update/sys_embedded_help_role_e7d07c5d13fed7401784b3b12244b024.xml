@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_embedded_help_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
         <role display_value="x_clstu_abroad.study_abroad_approval_user" name="x_clstu_abroad.study_abroad_approval_user">a7d07c5d13fed7401784b3b12244b022</role>

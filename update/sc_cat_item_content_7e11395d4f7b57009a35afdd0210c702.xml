@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_content">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_content">
     <sc_cat_item_content action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_desktop</availability>
@@ -18,7 +17,7 @@
         <icon/>
         <ignore_price>true</ignore_price>
         <image/>
-        <kb_article display_value="KB0010684">abeee9994f7b57009a35afdd0210c70f</kb_article>
+        <kb_article display_value="KB0010684 v1.0">abeee9994f7b57009a35afdd0210c70f</kb_article>
         <list_price>0</list_price>
         <location/>
         <meta/>

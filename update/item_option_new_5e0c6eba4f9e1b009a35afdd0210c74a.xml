@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -19,8 +18,8 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <example_text/>
-        <field>gpa</field>
-        <global>false</global>
+        <field/>
+        <global>true</global>
         <help_tag>More information</help_tag>
         <help_text/>
         <include_none>false</include_none>
@@ -33,8 +32,8 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
-        <map_to_field>true</map_to_field>
+        <mandatory>true</mandatory>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>gpa</name>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-05-29 20:21:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5e0c6eba4f9e1b009a35afdd0210c74a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>GPA</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,7 +68,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_5e0c6eba4f9e1b009a35afdd0210c74a</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-07-27 13:52:46</sys_updated_on>
+        <sys_updated_on>2018-09-05 17:20:57</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

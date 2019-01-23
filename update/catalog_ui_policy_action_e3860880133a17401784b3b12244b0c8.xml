@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Refund Request">fc0d33bb13e617401784b3b12244b000</catalog_item>
         <catalog_variable>IO:990dbfbb13e617401784b3b12244b08e</catalog_variable>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
-        <mandatory>ignore</mandatory>
+        <mandatory>true</mandatory>
+        <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-06-14 15:46:31</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e3860880133a17401784b3b12244b0c8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>reason_for_refund</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -19,11 +20,11 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>catalog_ui_policy_action_e3860880133a17401784b3b12244b0c8</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-06-14 15:47:15</sys_updated_on>
+        <sys_updated_on>2018-08-24 18:23:50</sys_updated_on>
         <table/>
         <ui_policy display_value="Everything Else">a5768480133a17401784b3b12244b0b9</ui_policy>
         <variable>reason_for_refund</variable>
         <variable_set/>
-        <visible>false</visible>
+        <visible>true</visible>
     </catalog_ui_policy_action>
 </record_update>

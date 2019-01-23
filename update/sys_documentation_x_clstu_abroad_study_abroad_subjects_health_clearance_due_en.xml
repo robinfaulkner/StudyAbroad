@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="health_clearance_due" label="Health Clearance Due" language="en" table="x_clstu_abroad_study_abroad_subjects">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>health_clearance_due</element>

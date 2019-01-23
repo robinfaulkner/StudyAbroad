@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -41,7 +40,7 @@
         <order>995</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>I understand that in the event I elect to travel outside the United States beyond the term of the University program, whether prior to the start of or after the conclusion of said program, I am traveling in my individual capacity during this time and assume all risks and dangers inherent with such decision.  I do also hereby, for myself, my heirs, executors, administrators, and assigned, waive, release, covenant not to sue and forever discharge the Board of Regents of the University System of Georgia and CLAYTON STATE UNIVERSITY and their members, agents, servants and employees, and the individual(s) responsible for, and employed by, the Program and their agents of and from any and all manner of action or actions, causes or causes of action, including, but not limited to negligence, suits, debts, accounts, damages, claims and demands of whatsoever in law, in admiralty, or in equity or otherwise, which I have or may acquire by reason of injury, damage or harm to person while participating in said travel and/or study program or study programs, arising out of, or connected with, participation in said independent travel.   </question_text>
+        <question_text>I understand that in the event I elect to travel outside the United States beyond the term of the University program, whether prior to the start of or after the conclusion of said program, I am traveling in my individual capacity during this time and assu</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>

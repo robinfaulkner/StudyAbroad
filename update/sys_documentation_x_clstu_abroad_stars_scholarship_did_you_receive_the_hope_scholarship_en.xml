@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="did_you_receive_the_hope_scholarship" label="Did you receive the HOPE Scholarship" language="en" table="x_clstu_abroad_stars_scholarship">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>did_you_receive_the_hope_scholarship</element>

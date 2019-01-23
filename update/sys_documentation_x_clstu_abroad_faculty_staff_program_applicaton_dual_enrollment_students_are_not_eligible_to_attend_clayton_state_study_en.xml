@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study" label="Dual Enrollment (DE) students are not eligible to attend Clayton State study" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>dual_enrollment_students_are_not_eligible_to_attend_clayton_state_study</element>

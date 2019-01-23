@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Submit Health Clearance Form">101f6ddd13b21b401784b3b12244b091</sc_cat_item>
         <sc_category display_value="Student Health Clearance Form">7dd745214fef1fc09a35afdd0210c70e</sc_category>

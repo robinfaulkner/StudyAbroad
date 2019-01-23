@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Submit Your Passport">64abe62d4ff797009a35afdd0210c7fa</sc_cat_item>
         <sc_category display_value="Student Resources">1b25e2434fda5b009a35afdd0210c75c</sc_category>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Maymester/Summer Orientation Registration">f4a7ee284f4caf009a35afdd0210c769</sc_cat_item>
-        <sc_category display_value="Orientation">8fe41ea44f0caf009a35afdd0210c75f</sc_category>
+        <sc_category display_value="Student Orientation">8fe41ea44f0caf009a35afdd0210c75f</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-08-17 20:05:31</sys_created_on>

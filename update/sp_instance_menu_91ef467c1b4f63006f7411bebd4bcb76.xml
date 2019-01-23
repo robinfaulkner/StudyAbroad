@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>star</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">77da5eb41b8f63006f7411bebd4bcb8b</sp_column>
+        <sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2019-01-14 16:08:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>91ef467c1b4f63006f7411bebd4bcb76</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Helpful Links and Faculty Resources</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sp_instance_menu_91ef467c1b4f63006f7411bebd4bcb76</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2019-01-14 17:59:31</sys_updated_on>
+        <title>Helpful Links and Faculty Resources</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+</record_update>

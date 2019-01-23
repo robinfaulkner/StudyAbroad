@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Application Approval ">1018301513321b401784b3b12244b0b1</cat_item>
+        <cat_item display_value="Program Director Contract Approval ">1018301513321b401784b3b12244b0b1</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

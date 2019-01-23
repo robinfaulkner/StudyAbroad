@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Information" section_id="426543fc13da53001784b3b12244b081" sys_domain="global" table="x_clstu_abroad_submissions" version="3" view="refund">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hold_check_phone</element>

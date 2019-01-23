@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_catalog_view_mtom">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
     <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
         <default>true</default>
         <sc_catalog display_value="Study Abroad Faculty">827f48d41308a7001784b3b12244b01f</sc_catalog>

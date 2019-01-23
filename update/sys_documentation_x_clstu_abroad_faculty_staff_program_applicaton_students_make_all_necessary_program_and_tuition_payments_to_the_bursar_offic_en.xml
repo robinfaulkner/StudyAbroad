@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="students_make_all_necessary_program_and_tuition_payments_to_the_bursar_offic" label="Students make all necessary program and tuition payments to the Bursar Offic" language="en" table="x_clstu_abroad_faculty_staff_program_applicaton">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>students_make_all_necessary_program_and_tuition_payments_to_the_bursar_offic</element>

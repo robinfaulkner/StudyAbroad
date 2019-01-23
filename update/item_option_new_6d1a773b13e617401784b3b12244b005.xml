@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -38,7 +37,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>submission_type</name>
-        <order/>
+        <order>50</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>Submission Type</question_text>
@@ -61,7 +60,7 @@
         <sys_created_on>2018-06-14 14:52:23</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>6d1a773b13e617401784b3b12244b005</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Submission Type</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
@@ -69,7 +68,7 @@
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>item_option_new_6d1a773b13e617401784b3b12244b005</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-13 19:02:17</sys_updated_on>
+        <sys_updated_on>2018-08-27 16:45:10</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

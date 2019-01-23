@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -41,7 +40,7 @@
         <order>495</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>I understand that I am responsible for any and all FINANCIAL COSTS, RISKS, and LIABILITY involved in travelling independently from my program, including additional airfare, fees, lodging, connecting transportation, taxis, food, unforeseen expenses, etc.  I assume all involved risk and understand that the University is not responsible for me or my safety during such independent travel. </question_text>
+        <question_text>I understand that I am responsible for any and all FINANCIAL COSTS, RISKS, and LIABILITY involved in travelling independently from my program, including additional airfare, fees, lodging, connecting transportation, taxis, food, unforeseen expenses, etc.  </question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>

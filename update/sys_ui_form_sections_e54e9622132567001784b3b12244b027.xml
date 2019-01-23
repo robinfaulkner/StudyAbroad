@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e54e9622132567001784b3b12244b027" sys_domain="global" table="x_clstu_abroad_faculty_staff_program_applicaton" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad4e9622132567001784b3b12244b029</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_abroad_faculty_staff_program_applicaton" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">e54e9622132567001784b3b12244b027</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">026dd6ee13e167001784b3b12244b0e4</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:06:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a94e9622132567001784b3b12244b02a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_abroad_faculty_staff_program_applicaton" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">e54e9622132567001784b3b12244b027</sys_ui_form>
+            <sys_ui_section caption="Clayton State University" display_value="Clayton State University" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">914e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:06:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>694e9622132567001784b3b12244b0aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_abroad_faculty_staff_program_applicaton" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">e54e9622132567001784b3b12244b027</sys_ui_form>
+            <sys_ui_section caption="Study Abroad Program" display_value="Study Abroad Program" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">994e9622132567001784b3b12244b026</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:06:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-07 14:41:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27bf6336132d23001784b3b12244b00f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_clstu_abroad_faculty_staff_program_applicaton" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">e54e9622132567001784b3b12244b027</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_clstu_abroad_faculty_staff_program_applicaton" sys_domain="global" view="Default view">a7bf6336132d23001784b3b12244b00c</sys_ui_section>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-07 14:41:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_clstu_abroad_faculty_staff_program_applicaton</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>rfaulkner1</sys_created_by>
+            <sys_created_on>2018-11-06 14:06:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e54e9622132567001784b3b12244b027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_clstu_abroad_faculty_staff_program_applicaton</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e54e9622132567001784b3b12244b027</sys_update_name>
+            <sys_updated_by>rfaulkner1</sys_updated_by>
+            <sys_updated_on>2018-11-06 14:06:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

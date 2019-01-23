@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Health Clearance Form Approval">5a7b15a14f235fc09a35afdd0210c7cc</sc_cat_item>
         <sc_category display_value="STAB Approval">775b55614f235fc09a35afdd0210c7f5</sc_category>

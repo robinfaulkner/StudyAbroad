@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
     <sc_category action="INSERT_OR_UPDATE">
         <active>true</active>
         <description/>
@@ -24,16 +23,16 @@
         <sys_created_on>2018-08-17 18:43:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>8fe41ea44f0caf009a35afdd0210c75f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Orientation</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Student Orientation</sys_name>
         <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
         <sys_update_name>sc_category_8fe41ea44f0caf009a35afdd0210c75f</sys_update_name>
         <sys_updated_by>rfaulkner1</sys_updated_by>
-        <sys_updated_on>2018-08-17 18:43:56</sys_updated_on>
-        <title>Orientation</title>
+        <sys_updated_on>2018-09-06 18:00:41</sys_updated_on>
+        <title>Student Orientation</title>
     </sc_category>
     <sys_translated_text action="delete_multiple" query="documentkey=8fe41ea44f0caf009a35afdd0210c75f"/>
 </record_update>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_instance">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
     <sp_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <class_name/>
@@ -47,6 +46,7 @@
         <image_width>468</image_width>
         <size_bytes>77246</size_bytes>
         <size_compressed>73981</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-07-26 13:49:22</sys_created_on>
         <sys_id>738ef7594feb1fc09a35afdd0210c7df</sys_id>
@@ -85,6 +85,7 @@
         <image_width>468</image_width>
         <size_bytes>77246</size_bytes>
         <size_compressed>73981</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-07-26 13:49:36</sys_created_on>
         <sys_id>d39e7f194feb1fc09a35afdd0210c77d</sys_id>
@@ -123,6 +124,7 @@
         <image_width>468</image_width>
         <size_bytes>77246</size_bytes>
         <size_compressed>73981</size_compressed>
+        <state/>
         <sys_created_by>rfaulkner1</sys_created_by>
         <sys_created_on>2018-07-26 13:49:01</sys_created_on>
         <sys_id>fe7eb7994feb1fc09a35afdd0210c7a1</sys_id>

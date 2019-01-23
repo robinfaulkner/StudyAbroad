@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="receive_financial_aid" table="x_clstu_abroad_submissions" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -65,7 +64,7 @@
             <sys_created_by>rfaulkner1</sys_created_by>
             <sys_created_on>2018-05-23 20:23:21</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>d3f2b3b0139e53001784b3b12244b07d</sys_id>
+            <sys_id>ad53a3ce13c02f00ec6850622244b0d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>receive_financial_aid</sys_name>
             <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>

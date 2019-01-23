@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Study Abroad Submissions" max_length="40" name="x_clstu_abroad_submissions" type="collection">
+        <element label="Academic Adviser Agreement" max_length="40" name="academic_advisor_agree" type="boolean"/>
         <element label="Academic Credit" max_length="40" name="academic_credit" type="boolean"/>
         <element label="Acceptance into my program" max_length="40" name="acceptance" type="boolean"/>
         <element label="Additional Conditions" max_length="40" name="additional_conditions" type="boolean"/>
         <element label="Have an adventure" max_length="40" name="adventure" type="boolean"/>
         <element label="Africa" max_length="40" name="africa" type="boolean"/>
         <element label="Antarctica" max_length="40" name="antarctica" type="boolean"/>
-        <element label="Appropriate Conduct and " max_length="40" name="appropriate_conduct" type="boolean"/>
+        <element label="Appropriate Conduct and" max_length="40" name="appropriate_conduct" type="boolean"/>
         <element label="Approval" max_length="32" name="approval" reference="x_clstu_abroad_study_abroad_approval" type="reference"/>
         <element attributes="ignore_filter_on_new=true,edge_encryption_enabled=true,ref_ac_display_value,ts_weight=50" choice="1" dependent="approval.approval_status" dependent_on_field="approval.approval_status" label="Approval Status" max_length="32" name="approval_status" type="choice" use_dependent_field="true">
             <choice>
-                <element label="New" sequence="100" value="new"/>
-                <element label="Approved" sequence="200" value="approved"/>
-                <element label="Rejected" sequence="300" value="rejected"/>
-                <element label="Request Additional Information" sequence="400" value="request_info"/>
+                <element inactive_on_update="false" label="New" sequence="100" value="new"/>
+                <element inactive_on_update="false" label="Approved" sequence="200" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="300" value="rejected"/>
+                <element inactive_on_update="false" label="Request Additional Information" sequence="400" value="request_info"/>
             </choice>
         </element>
         <element label="Asia" max_length="40" name="asia" type="boolean"/>
@@ -23,8 +23,9 @@
         <element label="City Issued" max_length="100" name="city_issued" type="string"/>
         <element label="City/ State/ Zip Code" max_length="1000" name="city_state_zip_code" type="string"/>
         <element label="Class Standing" max_length="100" name="class_standing" type="string"/>
+        <element label="Class year" max_length="32" name="class_year" reference="x_clstu_abroad_class_year" type="reference"/>
         <element label="College/university currently attending" max_length="100" name="college_university" type="string"/>
-        <element label="Contact " max_length="5000" name="contactcontact" type="string"/>
+        <element label="Contact" max_length="5000" name="contactcontact" type="string"/>
         <element label="Cost" max_length="40" name="cost" type="boolean"/>
         <element choice="1" label="Country of Citizenship" max_length="40" name="country_of_citizenship" reference="core_country" type="reference">
             <choice/>
@@ -35,16 +36,25 @@
         <element label="I would like to defer my application because of" max_length="4000" name="defer_my_application" type="glide_list"/>
         <element choice="1" label="Are you enrolled in a program leading to a degree or diploma?" max_length="40" name="degree_diploma" type="choice">
             <choice>
-                <element label="No" value="no"/>
-                <element label="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
             </choice>
         </element>
         <element label="Describe the independent travel" max_length="1000" name="describe_the_independent_travel" type="string"/>
         <element label="Dicrimination or Identity Concern" max_length="40" name="dicrimination_identity_concern" type="boolean"/>
         <element choice="1" label="I have discussed a study abroad program with my academic advisor." max_length="40" name="discussed_academic_advisor" type="choice">
             <choice>
-                <element label="Yes" sequence="100" value="yes"/>
-                <element label="Not yet" sequence="200" value="nor_yet"/>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="Not yet" sequence="200" value="nor_yet"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Are you 18 years-old or older?" max_length="40" name="eighteen_or_older" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="No" sequence="0" value="no"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="yes"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
         <element label="Emergency Address 1" max_length="80" name="emergency_address_1" type="string"/>
@@ -63,39 +73,42 @@
         <element label="Faculty/ Teacher Leader Travel" max_length="40" name="faculty_teacher_leader_travel" type="boolean"/>
         <element label="Final Agreement" max_length="40" name="final_agreement" type="boolean"/>
         <element label="Financial Aid" max_length="40" name="financial_aid" type="boolean"/>
+        <element label="Financial Aid Agreement" max_length="40" name="fin_aid_agreement" type="boolean"/>
         <element label="Food issues/ Dietary restrictions" max_length="40" name="food_issues" type="boolean"/>
         <element label="Leaving my friends or family behind" max_length="40" name="friends_family" type="boolean"/>
         <element label="Funding Not Sure" max_length="40" name="funding_not_sure" type="boolean"/>
         <element label="Fundraising/ Crowdfunding" max_length="40" name="fundraising_crowdfunding" type="boolean"/>
         <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
             <choice>
-                <element label="Female" value="female"/>
-                <element label="Male" value="male"/>
+                <element inactive_on_update="false" label="Female" value="female"/>
+                <element inactive_on_update="false" label="Male" value="male"/>
             </choice>
         </element>
         <element label="Get away from home" max_length="40" name="get_away" type="boolean"/>
+        <element label="Good GPA" max_length="40" name="good_gpa_agreement" type="boolean"/>
         <element label="Improve my chance of getting a good job" max_length="40" name="good_job" type="boolean"/>
         <element label="GPA" max_length="15" name="gpa" type="decimal"/>
         <element label="Hardship Withdrawal" max_length="1000" name="hardship_withdrawal" type="string"/>
         <element choice="1" label="Have passport" max_length="40" name="have_passport" type="choice">
             <choice>
-                <element label="Yes" sequence="100" value="yes"/>
-                <element label="No, I am applying for a passport" sequence="200" value="no"/>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No, I am applying for a passport" sequence="200" value="no"/>
             </choice>
         </element>
+        <element label="Health Clearance Agreement" max_length="40" name="health_clearance_agree" type="boolean"/>
         <element label="Health and/or Safety Issue" max_length="40" name="health_safety_issue" type="boolean"/>
         <element choice="3" label="Hold check at accounting services for pick-up?" max_length="40" name="hold_check" type="choice">
             <choice>
-                <element label="Yes" sequence="100" value="yes"/>
-                <element label="No" sequence="200" value="no"/>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" value="no"/>
             </choice>
         </element>
-        <element label="Hold check phone" max_length="100" name="hold_check_phone" type="string"/>
+        <element label="Contact Phone Number" max_length="100" name="hold_check_phone" type="string"/>
         <element label="Housing" max_length="40" name="housing" type="boolean"/>
         <element label="Become more independent" max_length="40" name="independent" type="boolean"/>
         <element label="I am interested in the following subjects while abroad" max_length="4000" name="interested_subjects_abroad" reference="x_clstu_abroad_study_abroad_subjects" type="glide_list"/>
         <element label="If my independent travel includes me arriving to the host country early, I under" max_length="40" name="i_agree_03" type="boolean"/>
-        <element label="I agree to discuss the independent travel with the program director and to keep " max_length="40" name="i_agree_to_02" type="boolean"/>
+        <element label="I agree to discuss the independent travel with the program director and to keep" max_length="40" name="i_agree_to_02" type="boolean"/>
         <element label="I am studying" max_length="1000" name="i_am_studying" type="string"/>
         <element label="I understand that I am responsible for any and all FINANCIAL COSTS, RISKS, and L" max_length="40" name="i_understand_01" type="boolean"/>
         <element label="Job" max_length="40" name="job" type="boolean"/>
@@ -108,10 +121,10 @@
         <element active="false" label="Missing out on something back home" max_length="40" name="missing_out_home" type="boolean"/>
         <element choice="1" label="My passport is" max_length="40" name="my_passport_is" type="choice">
             <choice>
-                <element label="Current" value="current"/>
-                <element label="Expired" value="expired"/>
-                <element label="I don't have a passport" value="no_passport"/>
-                <element label="I don't know" value="do_not_know_passport"/>
+                <element inactive_on_update="false" label="Current" value="current"/>
+                <element inactive_on_update="false" label="Expired" value="expired"/>
+                <element inactive_on_update="false" label="I don't have a passport" value="no_passport"/>
+                <element inactive_on_update="false" label="I don't know" value="do_not_know_passport"/>
             </choice>
         </element>
         <element label="North America" max_length="40" name="north_america" type="boolean"/>
@@ -120,33 +133,36 @@
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Online Orientation Agreement" max_length="40" name="online_orientation_agreement" type="boolean"/>
         <element label="Orientation for" max_length="32" name="orientation" reference="x_clstu_abroad_submissions" type="reference"/>
+        <element label="Are you 18 years of older" max_length="40" name="or_older" type="boolean"/>
         <element label="Other" max_length="40" name="other" type="boolean"/>
         <element label="Other Concern" max_length="1000" name="other_concern" type="string"/>
         <element label="Other Funding" max_length="40" name="other_funding" type="boolean"/>
         <element label="Other Funding Description" max_length="1000" name="other_funding_description" type="string"/>
         <element choice="1" label="I have been outside of my home country" max_length="40" name="outside_my_home_country" type="choice">
             <choice>
-                <element label="No" value="no"/>
-                <element label="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
             </choice>
         </element>
         <element label="Passport Number" max_length="100" name="passport_number" type="string"/>
+        <element label="Payments Agreement" max_length="40" name="payments_agree" type="boolean"/>
         <element label="Personal Savings" max_length="40" name="personal_savings" type="boolean"/>
+        <element label="Program Director Agreement" max_length="40" name="program_director_agree" type="boolean"/>
         <element choice="1" label="Do you know the exact program you are interested in" max_length="40" name="program_interested" type="choice">
             <choice>
-                <element label="No" value="no"/>
-                <element label="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
             </choice>
         </element>
         <element label="Reason for Refund" max_length="1000" name="reason_for_refund" type="string"/>
         <element choice="1" label="I receive financial aid or scholarships from the government or an organization" max_length="40" name="receive_financial_aid" type="choice">
             <choice>
-                <element label="Yes" sequence="100" value="yes"/>
-                <element label="No" sequence="200" value="no"/>
-                <element label="Not Sure" sequence="200" value="not_sure"/>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" value="no"/>
+                <element inactive_on_update="false" label="Not Sure" sequence="200" value="not_sure"/>
             </choice>
         </element>
-        <element label="Refund Address " max_length="100" name="refund_address" type="string"/>
+        <element label="Refund Address" max_length="100" name="refund_address" type="string"/>
         <element label="Release and Waiver of Liability" max_length="40" name="release_and_waiver_of_liability" type="boolean"/>
         <element label="Picking the right program" max_length="40" name="right_program" type="boolean"/>
         <element label="Scholarship/ Grant" max_length="40" name="scholarship_grant" type="boolean"/>
@@ -156,22 +172,28 @@
         <element label="South America" max_length="40" name="south_america" type="boolean"/>
         <element choice="1" label="Speak to parents" max_length="40" name="speak_to_parents" type="choice">
             <choice>
-                <element label="No" value="no"/>
-                <element label="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
             </choice>
         </element>
         <element label="SSN" max_length="20" name="ssn" type="string"/>
         <element choice="1" default="New" label="State" max_length="40" name="state" type="choice">
             <choice>
-                <element label="New" sequence="100" value="new"/>
-                <element label="Open" sequence="200" value="open"/>
-                <element label="Complete" sequence="300" value="complete"/>
-                <element label="Revision Required" sequence="500" value="revision_required"/>
+                <element inactive_on_update="false" label="New" sequence="100" value="new"/>
+                <element inactive_on_update="false" label="Open" sequence="200" value="open"/>
+                <element inactive_on_update="false" label="Complete" sequence="300" value="complete"/>
+                <element inactive_on_update="false" label="Revision Required" sequence="500" value="revision_required"/>
             </choice>
         </element>
         <element label="Street Address" max_length="1000" name="street_address" type="string"/>
         <element label="Student Address" max_length="100" name="student_address" type="string"/>
         <element label="Student Name" max_length="32" name="student_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Are you an international student at Clayton State studying on a student visa" max_length="40" name="student_visa" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element label="Study Abroad" max_length="40" name="study_abroad" type="boolean"/>
         <element choice="1" label="Study Abroad Program" max_length="40" name="study_abroad_program" reference="x_clstu_abroad_study_abroad_subjects" type="reference">
             <choice/>
@@ -179,35 +201,46 @@
         <element label="Study or research" max_length="40" name="study_research" type="boolean"/>
         <element choice="1" label="Submission Type" max_length="40" name="submission_type" type="choice">
             <choice>
-                <element label="Independent Travel Waiver" sequence="0" value="Independent Travel Waiver"/>
-                <element label="Health Clearance Form" sequence="1" value="Health Clearance Form"/>
-                <element label="Profile" sequence="2" value="Profile"/>
-                <element label="Refund" sequence="3" value="Refund"/>
-                <element label="Passport" sequence="4" value="Passport"/>
-                <element label="Application" sequence="5" value="Application"/>
-                <element label="Orientation" sequence="6" value="Orientation"/>
+                <element inactive_on_update="false" label="Independent Travel Waiver" sequence="0" value="Independent Travel Waiver"/>
+                <element inactive_on_update="false" label="Health Clearance Form" sequence="1" value="Health Clearance Form"/>
+                <element inactive_on_update="false" label="Profile" sequence="2" value="Profile"/>
+                <element inactive_on_update="false" label="Refund" sequence="3" value="Refund"/>
+                <element inactive_on_update="false" label="Passport" sequence="4" value="Passport"/>
+                <element inactive_on_update="false" label="Application" sequence="5" value="Application"/>
+                <element inactive_on_update="false" label="Orientation" sequence="6" value="Orientation"/>
             </choice>
         </element>
         <element label="How much time do I have to apply and to plan to go?" max_length="40" name="time_apply_go" type="boolean"/>
         <element label="Trip Cancellation" max_length="40" name="trip_cancellation" type="boolean"/>
         <element label="An unsupportive parent, teacher or mentor" max_length="40" name="unsupportive_mentor" type="boolean"/>
+        <element label="Good Health" max_length="40" name="u_good_health" type="boolean"/>
         <element label="I'm not sure" max_length="40" name="want_travel_not_sure" type="boolean"/>
+        <element label="Welcome Email Agreement" max_length="40" name="welcome_email_agree" type="boolean"/>
         <index name="index">
-            <element name="student_name"/>
+            <element name="class_year"/>
         </index>
         <index name="index2">
-            <element name="orientation"/>
+            <element name="student_name"/>
         </index>
         <index name="index3">
-            <element name="country_passport"/>
+            <element name="orientation"/>
         </index>
         <index name="index4">
-            <element name="approval"/>
+            <element name="country_passport"/>
         </index>
         <index name="index5">
-            <element name="approval_status"/>
+            <element name="approval"/>
         </index>
         <index name="index6">
+            <element name="approval_status"/>
+        </index>
+        <index name="index7">
+            <element name="country_of_citizenship"/>
+        </index>
+        <index name="index8">
+            <element name="study_abroad_program"/>
+        </index>
+        <index name="index9">
             <element name="cell_phone"/>
         </index>
     </element>

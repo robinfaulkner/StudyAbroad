@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Submit Travel Authorization">f20eaeea132567001784b3b12244b004</sc_cat_item>
+        <sc_category display_value="Faculty Program Submissions">6e322ae2132567001784b3b12244b021</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>rfaulkner1</sys_created_by>
+        <sys_created_on>2018-11-06 15:15:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b20eaeea132567001784b3b12244b00c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Faculty Program Submissions.Submit Travel Authorization</sys_name>
+        <sys_package display_value="Study Abroad" source="x_clstu_abroad">00bfa9e413da13001784b3b12244b00f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Study Abroad">00bfa9e413da13001784b3b12244b00f</sys_scope>
+        <sys_update_name>sc_cat_item_category_b20eaeea132567001784b3b12244b00c</sys_update_name>
+        <sys_updated_by>rfaulkner1</sys_updated_by>
+        <sys_updated_on>2018-11-06 15:15:33</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
