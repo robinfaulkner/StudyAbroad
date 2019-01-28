@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Study Abroad Evaulations">0e339fa74f18e7000b2fb3318110c796</sc_cat_item>
+        <sc_cat_item display_value="Study Abroad Evaluations">0e339fa74f18e7000b2fb3318110c796</sc_cat_item>
         <sc_catalog display_value="Study Abroad">18703960135e13001784b3b12244b01e</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>rfaulkner1</sys_created_by>
